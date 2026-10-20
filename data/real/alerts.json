@@ -1,5 +1,27 @@
 [
  {
+  "id": "prix-SCRC-2026-10-19-082746c155",
+  "type": "prix",
+  "ticker": "SCRC",
+  "title": "SCRC : -5,29 % sur la séance",
+  "detail": "SUCRIVOIRE clôture à 2 150 FCFA le 2026-10-19  contre 2 270 FCFA la séance précédente (9 166 titres échangés).",
+  "time": "2026-10-19T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-TTLC-2026-10-19-111550b673",
+  "type": "prix",
+  "ticker": "TTLC",
+  "title": "TTLC : -7,26 % sur la séance",
+  "detail": "TOTALENERGIES MARKETING CI clôture à 2 875 FCFA le 2026-10-19  contre 3 100 FCFA la séance précédente (1 030 titres échangés).",
+  "time": "2026-10-19T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
   "id": "prix-CFAC-2026-10-16-e01320fe2b",
   "type": "prix",
   "ticker": "CFAC",
@@ -214,46 +236,13 @@
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261013_-_rapport_dactivites_-_3e_trimestre_2026_-_saph_ci.pdf"
  },
  {
-  "id": "prix-BOAN-2026-10-12-7d5dec9696",
-  "type": "prix",
-  "ticker": "BOAN",
-  "title": "BOAN : -6,48 % sur la séance",
-  "detail": "BANK OF AFRICA NG clôture à 4 475 FCFA le 2026-10-12  contre 4 785 FCFA la séance précédente (9 698 titres échangés).",
-  "time": "2026-10-12T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-ORGT-2026-10-12-9813398099",
-  "type": "prix",
-  "ticker": "ORGT",
-  "title": "ORGT : -6 % sur la séance",
-  "detail": "ORAGROUP TOGO clôture à 2 820 FCFA le 2026-10-12  contre 3 000 FCFA la séance précédente (4 023 titres échangés).",
-  "time": "2026-10-12T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "volume-STBC-2026-10-12-d3554bfb20",
-  "type": "volume",
-  "ticker": "STBC",
-  "title": "Volume inhabituel sur STBC",
-  "detail": "44 644 titres SITAB CI échangés le 2026-10-12  soit 16.8× la moyenne des 30 séances précédentes.",
-  "time": "2026-10-12T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
   "id": "document-ORGT-2026-10-09-ca6defd995",
   "type": "document",
   "ticker": "ORGT",
   "title": "ORGT : nouvelle publication financière",
   "detail": "ORAGROUP TOGO a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-09. S1 2026 : PNB 98,6 Md FCFA (-1,14 % vs S1 2025) ; résultat net 18,5 Md FCFA (+1,45 %). Extraction automatique recoupée, confiance élevée. Source officielle à consulter avant toute décision.",
   "time": "2026-10-09T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261009_-_rapport_dactivites_-_1er_semestre_2026_-_oragroup_tg.pdf"
@@ -461,29 +450,5 @@
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20260921_-_rapport_dactivites_-_1er_trimestre_2026_-_sucrivoire_ci.pdf"
- },
- {
-  "id": "document-SDSC-2026-09-17-857708a3b1",
-  "type": "document",
-  "ticker": "SDSC",
-  "title": "SDSC : nouvelle publication financière",
-  "detail": "AFRICA GLOBAL LOGISTICS CI a publié « Etats financiers certifies — exercice 2025 » le 2026-09-17. Source officielle à consulter avant toute décision.",
-  "time": "2026-09-17T09:05:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel",
-  "sourceUrl": "https://www.brvm.org/sites/default/files/20260917_-_etats_financiers_certifies_-_exercice_2025_-_africa_global_logistics_ci.pdf"
- },
- {
-  "id": "document-SDSC-2026-09-17-d5fdea60ac",
-  "type": "document",
-  "ticker": "SDSC",
-  "title": "SDSC : nouvelle publication financière",
-  "detail": "AFRICA GLOBAL LOGISTICS CI a publié « Rapport des commissaires aux comptes sur les etats financiers » le 2026-09-17. Source officielle à consulter avant toute décision.",
-  "time": "2026-09-17T09:05:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel",
-  "sourceUrl": "https://www.brvm.org/sites/default/files/20260917_-_rapport_des_commissaires_aux_comptes_sur_les_etats_financiers_-_africa_global_logistics_ci.pdf"
  }
 ]
