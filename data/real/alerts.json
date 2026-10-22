@@ -1,5 +1,17 @@
 [
  {
+  "id": "document-BOAS-2026-10-21-791ffd783f",
+  "type": "document",
+  "ticker": "BOAS",
+  "title": "BOAS : nouvelle publication financière",
+  "detail": "BANK OF AFRICA SENEGAL a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-21. Source officielle à consulter avant toute décision.",
+  "time": "2026-10-21T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261021_-_rapport_dactivites_-_3e_trimestre_2026_-_boa_sn.pdf"
+ },
+ {
   "id": "prix-BBGC-2026-10-20-04622d641e",
   "type": "prix",
   "ticker": "BBGC",
@@ -295,7 +307,7 @@
   "title": "BICC : nouvelle publication financière",
   "detail": "BICI CI a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-13. S1 2026 : PNB 37,1 Md FCFA (-53,31 % vs S1 2025) ; résultat net 16,3 Md FCFA (-18,52 %). Extraction automatique recoupée, confiance élevée. Source officielle à consulter avant toute décision.",
   "time": "2026-10-13T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261013_-_rapport_dactivites_-_1er_semestre_2026_-_bici_ci.pdf"
@@ -307,7 +319,7 @@
   "title": "SPHC : nouvelle publication financière",
   "detail": "SAPH CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-13. Source officielle à consulter avant toute décision.",
   "time": "2026-10-13T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261013_-_rapport_dactivites_-_3e_trimestre_2026_-_saph_ci.pdf"

@@ -1,5 +1,12 @@
 [
  {
+  "ticker": "BOAS",
+  "title": "Rapport dactivites — 3e trimestre 2026",
+  "type": "Résultats",
+  "date": "2026-10-21",
+  "url": "https://www.brvm.org/sites/default/files/20261021_-_rapport_dactivites_-_3e_trimestre_2026_-_boa_sn.pdf"
+ },
+ {
   "ticker": "ABJC",
   "title": "Attestation des commissaires aux comptes sur le rapport dactivites — 1er semestre 2026",
   "type": "Résultats",
@@ -5689,13 +5696,6 @@
   "type": "Communiqué",
   "date": "2022-04-29",
   "url": "https://www.brvm.org/sites/default/files/20220429_-_rapport_dactivite_-_1er_trimestre_2022_-_boa_senegal.pdf"
- },
- {
-  "ticker": "BOAS",
-  "title": "Rapport dactivite — 2nd semestre 2021",
-  "type": "Communiqué",
-  "date": "2022-04-29",
-  "url": "https://www.brvm.org/sites/default/files/20220429_-_rapport_dactivite_-_2nd_semestre_2021_-_boa_senegal.pdf"
  },
  {
   "ticker": "CIEC",
