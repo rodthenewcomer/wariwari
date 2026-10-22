@@ -1,5 +1,38 @@
 [
  {
+  "id": "volume-NEIC-2026-10-21-11702d1e32",
+  "type": "volume",
+  "ticker": "NEIC",
+  "title": "Volume inhabituel sur NEIC",
+  "detail": "48 380 titres NEI-CEDA CI échangés le 2026-10-21  soit 20.4× la moyenne des 30 séances précédentes.",
+  "time": "2026-10-21T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-SIVC-2026-10-21-093071d19d",
+  "type": "prix",
+  "ticker": "SIVC",
+  "title": "SIVC : -5,29 % sur la séance",
+  "detail": "ERIUM CI (Ex AIR LIQUIDE CI) clôture à 1 610 FCFA le 2026-10-21  contre 1 700 FCFA la séance précédente (4 302 titres échangés).",
+  "time": "2026-10-21T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-TTLS-2026-10-21-2059de7de8",
+  "type": "prix",
+  "ticker": "TTLS",
+  "title": "TTLS : +7,25 % sur la séance",
+  "detail": "TOTALENERGIES MARKETING SN clôture à 3 700 FCFA le 2026-10-21  contre 3 450 FCFA la séance précédente (2 283 titres échangés).",
+  "time": "2026-10-21T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
   "id": "document-BOAS-2026-10-21-791ffd783f",
   "type": "document",
   "ticker": "BOAS",
@@ -252,50 +285,6 @@
   "title": "FTSC au plus bas 52 semaines",
   "detail": "FILTISAC CI clôture à 1 800 FCFA le 2026-10-15 — sous son plus bas des 52 dernières semaines (1 850 FCFA).",
   "time": "2026-10-15T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "volume-BICC-2026-10-14-f086d93dfe",
-  "type": "volume",
-  "ticker": "BICC",
-  "title": "Volume inhabituel sur BICC",
-  "detail": "4 292 titres BICI CI échangés le 2026-10-14  soit 5.2× la moyenne des 30 séances précédentes.",
-  "time": "2026-10-14T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-ORAC-2026-10-14-13e60e9953",
-  "type": "prix",
-  "ticker": "ORAC",
-  "title": "ORAC : -6,37 % sur la séance",
-  "detail": "ORANGE COTE D'IVOIRE clôture à 20 505 FCFA le 2026-10-14  contre 21 900 FCFA la séance précédente (4 406 titres échangés).",
-  "time": "2026-10-14T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "volume-SPHC-2026-10-14-986aa69858",
-  "type": "volume",
-  "ticker": "SPHC",
-  "title": "Volume inhabituel sur SPHC",
-  "detail": "17 567 titres SAPH CI échangés le 2026-10-14  soit 3.7× la moyenne des 30 séances précédentes.",
-  "time": "2026-10-14T15:30:00+00:00",
-  "severity": "info",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-UNLC-2026-10-14-a9cac001e3",
-  "type": "prix",
-  "ticker": "UNLC",
-  "title": "UNLC : -7,48 % sur la séance",
-  "detail": "UNILEVER CI clôture à 44 410 FCFA le 2026-10-14  contre 48 000 FCFA la séance précédente (7 titres échangés).",
-  "time": "2026-10-14T15:30:00+00:00",
   "severity": "warning",
   "active": true,
   "basis": "réel"
