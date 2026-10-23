@@ -1,5 +1,19 @@
 [
  {
+  "ticker": "NTLC",
+  "title": "Rapport dactivites — 1er semestre 2026",
+  "type": "Résultats",
+  "date": "2026-10-22",
+  "url": "https://www.brvm.org/sites/default/files/20261022_-_rapport_dactivites_-_1er_semestre_2026_-_nestle_ci.pdf"
+ },
+ {
+  "ticker": "NTLC",
+  "title": "Rapport dactivites — 3e trimestre 2026",
+  "type": "Résultats",
+  "date": "2026-10-22",
+  "url": "https://www.brvm.org/sites/default/files/20261022_-_rapport_dactivites_-_3e_trimestre_2026_-_nestle_ci.pdf"
+ },
+ {
   "ticker": "BOAS",
   "title": "Rapport dactivites — 3e trimestre 2026",
   "type": "Résultats",
@@ -5418,13 +5432,6 @@
   "url": "https://www.brvm.org/sites/default/files/20221024_-_rapport_dactivite_-_3eme_trimestre_2022_-_setao_ci_0.pdf"
  },
  {
-  "ticker": "NTLC",
-  "title": "Rapport dactivite — 3ieme trimestre 2022",
-  "type": "Communiqué",
-  "date": "2022-10-19",
-  "url": "https://www.brvm.org/sites/default/files/20221019_-_rapport_dactivite_-_3ieme_trimestre_2022_-_nestle_ci.pdf"
- },
- {
   "ticker": "BICC",
   "title": "Rapport dactivite — 3eme trimestre 2022",
   "type": "Communiqué",
@@ -5479,13 +5486,6 @@
   "type": "Communiqué",
   "date": "2022-10-03",
   "url": "https://www.brvm.org/sites/default/files/20221003_-_rapport_dactivite_du_1er_semestre_2022_-_smb_ci.pdf"
- },
- {
-  "ticker": "NTLC",
-  "title": "Rapport dactivite du 1er semestre 2022",
-  "type": "Communiqué",
-  "date": "2022-09-30",
-  "url": "https://www.brvm.org/sites/default/files/20220930_-_rapport_dactivite_du_1er_semestre_2022_-_nestle_ci.pdf"
  },
  {
   "ticker": "SOGC",

@@ -22,6 +22,30 @@
   "basis": "réel"
  },
  {
+  "id": "document-NTLC-2026-10-22-b5e2a93a24",
+  "type": "document",
+  "ticker": "NTLC",
+  "title": "NTLC : nouvelle publication financière",
+  "detail": "NESTLE CI a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-22. S1 2026 : CA 131,7 Md FCFA (+13,08 % vs S1 2025) ; résultat net 10,1 Md FCFA (+7,17 %). Extraction automatique recoupée, confiance élevée. Source officielle à consulter avant toute décision.",
+  "time": "2026-10-22T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261022_-_rapport_dactivites_-_1er_semestre_2026_-_nestle_ci.pdf"
+ },
+ {
+  "id": "document-NTLC-2026-10-22-dbbde4d412",
+  "type": "document",
+  "ticker": "NTLC",
+  "title": "NTLC : nouvelle publication financière",
+  "detail": "NESTLE CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-22. Source officielle à consulter avant toute décision.",
+  "time": "2026-10-22T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261022_-_rapport_dactivites_-_3e_trimestre_2026_-_nestle_ci.pdf"
+ },
+ {
   "id": "volume-NEIC-2026-10-21-11702d1e32",
   "type": "volume",
   "ticker": "NEIC",
