@@ -1,5 +1,17 @@
 [
  {
+  "id": "document-NSBC-2026-10-23-7b7bd86b08",
+  "type": "document",
+  "ticker": "NSBC",
+  "title": "NSBC : nouvelle publication financière",
+  "detail": "NSIA BANQUE COTE D'IVOIRE a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-23. S1 2026 : PNB 53,8 Md FCFA (+6,46 % vs S1 2025) ; résultat net 14,5 Md FCFA (-11,04 %). Extraction automatique recoupée, confiance élevée. Source officielle à consulter avant toute décision.",
+  "time": "2026-10-23T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261023_-_rapport_dactivites_-_1er_semestre_2026_-_nsia_banque_ci.pdf"
+ },
+ {
   "id": "prix-SCRC-2026-10-22-7623b0e6c6",
   "type": "prix",
   "ticker": "SCRC",

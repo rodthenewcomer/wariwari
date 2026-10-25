@@ -1,5 +1,12 @@
 [
  {
+  "ticker": "NSBC",
+  "title": "Rapport dactivites — 1er semestre 2026",
+  "type": "Résultats",
+  "date": "2026-10-23",
+  "url": "https://www.brvm.org/sites/default/files/20261023_-_rapport_dactivites_-_1er_semestre_2026_-_nsia_banque_ci.pdf"
+ },
+ {
   "ticker": "NTLC",
   "title": "Rapport dactivites — 1er semestre 2026",
   "type": "Résultats",
@@ -5927,13 +5934,6 @@
   "type": "Communiqué",
   "date": "2021-10-29",
   "url": "https://www.brvm.org/sites/default/files/20211029_-_rapport_dactivite_au_3eme_trimestre_2021_-_filtisac_ci.pdf"
- },
- {
-  "ticker": "NSBC",
-  "title": "Rapport dactivite au 3eme trimestre 2021",
-  "type": "Communiqué",
-  "date": "2021-10-28",
-  "url": "https://www.brvm.org/sites/default/files/20211028_-_rapport_dactivite_au_3eme_trimestre_2021_-_nsia_banque_ci.pdf"
  },
  {
   "ticker": "SDCC",
