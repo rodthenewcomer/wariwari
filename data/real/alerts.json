@@ -1,5 +1,38 @@
 [
  {
+  "id": "prix-FTSC-2026-10-23-8a81d3e66a",
+  "type": "prix",
+  "ticker": "FTSC",
+  "title": "FTSC au plus bas 52 semaines",
+  "detail": "FILTISAC CI clôture à 1 795 FCFA le 2026-10-23 — sous son plus bas des 52 dernières semaines (1 800 FCFA).",
+  "time": "2026-10-23T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-SDCC-2026-10-23-1f476e11f7",
+  "type": "prix",
+  "ticker": "SDCC",
+  "title": "SDCC : +6,03 % sur la séance",
+  "detail": "SODE CI clôture à 12 300 FCFA le 2026-10-23  contre 11 600 FCFA la séance précédente (650 titres échangés).",
+  "time": "2026-10-23T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-UNLC-2026-10-23-21e7d5a396",
+  "type": "prix",
+  "ticker": "UNLC",
+  "title": "UNLC : +7,47 % sur la séance",
+  "detail": "UNILEVER CI clôture à 48 360 FCFA le 2026-10-23  contre 45 000 FCFA la séance précédente (32 titres échangés).",
+  "time": "2026-10-23T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
   "id": "document-NSBC-2026-10-23-7b7bd86b08",
   "type": "document",
   "ticker": "NSBC",
@@ -22,6 +55,17 @@
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261023_-_rapport_dactivites_-_3e_trimestre_2026_-_onatel_bf.pdf"
+ },
+ {
+  "id": "dividende-PRSC-2026-10-23-64733a0e87",
+  "type": "dividende",
+  "ticker": "PRSC",
+  "title": "Dividende PRSC : 184 FCFA net par action",
+  "detail": "TRACTAFRIC MOTORS CI a payé un dividende net de 184 FCFA par action le 2026-10-23 (source : bulletin officiel).",
+  "time": "2026-10-23T09:00:00+00:00",
+  "severity": "info",
+  "active": true,
+  "basis": "réel"
  },
  {
   "id": "prix-SCRC-2026-10-22-7623b0e6c6",
@@ -207,7 +251,7 @@
   "type": "volume",
   "ticker": "SNTS",
   "title": "Volume inhabituel sur SNTS",
-  "detail": "102 221 titres SONATEL SN échangés le 2026-10-20  soit 4.1× la moyenne des 30 séances précédentes.",
+  "detail": "102 221 titres SONATEL SN (Val-T) échangés le 2026-10-20  soit 4.1× la moyenne des 30 séances précédentes.",
   "time": "2026-10-20T15:30:00+00:00",
   "severity": "info",
   "active": true,
@@ -265,50 +309,6 @@
   "detail": "TOTALENERGIES MARKETING CI clôture à 2 875 FCFA le 2026-10-19  contre 3 100 FCFA la séance précédente (1 030 titres échangés).",
   "time": "2026-10-19T15:30:00+00:00",
   "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-CFAC-2026-10-16-e01320fe2b",
-  "type": "prix",
-  "ticker": "CFAC",
-  "title": "CFAC : +7,41 % sur la séance",
-  "detail": "CFAO MOTORS CI clôture à 1 450 FCFA le 2026-10-16  contre 1 350 FCFA la séance précédente (2 685 titres échangés).",
-  "time": "2026-10-16T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-NTLC-2026-10-16-6299c225ad",
-  "type": "prix",
-  "ticker": "NTLC",
-  "title": "NTLC : -5,16 % sur la séance",
-  "detail": "NESTLE CI clôture à 14 700 FCFA le 2026-10-16  contre 15 500 FCFA la séance précédente (1 012 titres échangés).",
-  "time": "2026-10-16T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SDSC-2026-10-16-e4b1adce44",
-  "type": "prix",
-  "ticker": "SDSC",
-  "title": "SDSC : -6,36 % sur la séance",
-  "detail": "AFRICA GLOBAL LOGISTICS CI clôture à 2 870 FCFA le 2026-10-16  contre 3 065 FCFA la séance précédente (13 877 titres échangés).",
-  "time": "2026-10-16T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-STAC-2026-10-16-7def8d542a",
-  "type": "prix",
-  "ticker": "STAC",
-  "title": "STAC : +6,56 % sur la séance",
-  "detail": "SETAO CI clôture à 2 030 FCFA le 2026-10-16  contre 1 905 FCFA la séance précédente (6 134 titres échangés).",
-  "time": "2026-10-16T15:30:00+00:00",
-  "severity": "positive",
   "active": true,
   "basis": "réel"
  },
