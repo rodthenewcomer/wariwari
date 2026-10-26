@@ -1,5 +1,36 @@
 [
  {
+  "title": "BRVM : Le fractionnement de Sonatel attise l’engouement des investisseurs",
+  "link": "https://www.sikafinance.com/marches/brvm-le-fractionnement-de-sonatel-attise-lengouement-des-investisseurs_65256",
+  "source": "Sika Finance",
+  "publishedAt": "2026-10-26T15:40:36+00:00",
+  "summary": "La BRVM démarre la semaine sur une note résolument positive. Les trois principaux indices s'inscrivent en hausse, avec un gain de 1,06 % pour l...",
+  "tickers": [
+   "SNTS"
+  ]
+ },
+ {
+  "title": "NSIA Banque Côte d’Ivoire consolide ses revenus et renforce ses fonds propres au premier semestre 2026",
+  "link": "https://www.sikafinance.com/marches/nsia-banque-cote-divoire-consolide-ses-revenus-et-renforce-ses-fonds-propres-au-premier-semestre-2026_65253",
+  "source": "Sika Finance",
+  "publishedAt": "2026-10-26T14:40:32+00:00",
+  "summary": "La banque ivoirienne a enregistré un produit net bancaire de 53,7 milliards FCFA, en hausse de 6%, et un résultat brut d'exploitation de 22,8 milliar...",
+  "tickers": [
+   "NSBC"
+  ]
+ },
+ {
+  "title": "BRVM / SEMAINE 42 : La prudence reste de mise, Unilever CI et SAPH tirent leur épingle du jeu",
+  "link": "https://www.sikafinance.com/premium/brvm-semaine-42-la-prudence-reste-de-mise-unilever-ci-et-saph-tirent-leur-epingle-du-jeu_65240",
+  "source": "Sika Finance",
+  "publishedAt": "2026-10-26T09:24:55+00:00",
+  "summary": "Le marché actions de la BRVM a poursuivi sa consolidation pour la deuxième semaine consécutive. Le BRVM-Composite recule de 0,65 % à 529,14 points, t...",
+  "tickers": [
+   "SPHC",
+   "UNLC"
+  ]
+ },
+ {
   "title": "Ecobank Côte d’Ivoire : Bloomfield maintient la note AA, avec une perspective stable",
   "link": "https://www.financialafrik.com/2026/10/26/ecobank-cote-divoire-bloomfield-maintient-la-note-aa-avec-une-perspective-stable/",
   "source": "Financial Afrik",
@@ -1177,36 +1208,6 @@
   "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire. Lire la suite»",
   "tickers": [
    "CBIBF"
-  ]
- },
- {
-  "title": "BRVM : SONATEL rebondit et propulse les indices dans le vert",
-  "link": "https://www.sikafinance.com/marches/brvm-sonatel-rebondit-et-propulse-les-indices-dans-le-vert_63865",
-  "source": "Sika Finance",
-  "publishedAt": "2026-08-27T14:01:38+00:00",
-  "summary": "La BRVM a terminé la séance du jeudi 27 août 2026 en nette hausse, effaçant l'essentiel du repli enregistré la veille. Le BRVM-Composite...",
-  "tickers": [
-   "SNTS"
-  ]
- },
- {
-  "title": "UMOA/Groupes bancaires : Coris bouscule l’hégémonie d’Ecobank sur fond de retrait de Société Générale",
-  "link": "https://www.sikafinance.com/premium/umoagroupes-bancaires-coris-bouscule-lhegemonie-decobank-sur-fond-de-retrait-de-societe-generale_63857",
-  "source": "Sika Finance",
-  "publishedAt": "2026-08-27T10:50:48+00:00",
-  "summary": "Le secteur bancaire de l'UMOA reste solidement structuré autour de quelques grands groupes. À fin 2025, 35 groupes bancaires détiennent 115 ét...",
-  "tickers": [
-   "ETIT"
-  ]
- },
- {
-  "title": "UMOA/Groupes bancaires : Coris bouscule l’hégémonie d’Ecobank sur fond de baisse de régime de Société Générale",
-  "link": "https://www.sikafinance.com/premium/umoagroupes-bancaires-coris-bouscule-lhegemonie-decobank-sur-fond-de-baisse-de-regime-de-societe-generale_63857",
-  "source": "Sika Finance",
-  "publishedAt": "2026-08-27T10:50:48+00:00",
-  "summary": "Le secteur bancaire de l'UMOA reste solidement structuré autour de quelques grands groupes. À fin 2025, 35 groupes bancaires détiennent 115 ét...",
-  "tickers": [
-   "ETIT"
   ]
  }
 ]
