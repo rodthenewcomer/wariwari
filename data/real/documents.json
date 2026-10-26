@@ -7,6 +7,13 @@
   "url": "https://www.brvm.org/sites/default/files/20261023_-_rapport_dactivites_-_1er_semestre_2026_-_nsia_banque_ci.pdf"
  },
  {
+  "ticker": "ONTBF",
+  "title": "Rapport dactivites — 3e trimestre 2026",
+  "type": "Résultats",
+  "date": "2026-10-23",
+  "url": "https://www.brvm.org/sites/default/files/20261023_-_rapport_dactivites_-_3e_trimestre_2026_-_onatel_bf.pdf"
+ },
+ {
   "ticker": "NTLC",
   "title": "Rapport dactivites — 1er semestre 2026",
   "type": "Résultats",
@@ -4450,13 +4457,6 @@
   "type": "Résultats",
   "date": "2023-10-26",
   "url": "https://www.brvm.org/sites/default/files/20231026_-_rapport_dactivites_-_3eme_trimestre_2023_-_onatel_bf.pdf"
- },
- {
-  "ticker": "ONTBF",
-  "title": "Rapport dactivites et attestation des cac — 1er semestre 2023",
-  "type": "Résultats",
-  "date": "2023-10-26",
-  "url": "https://www.brvm.org/sites/default/files/20231026_-_rapport_dactivites_et_attestation_des_cac_-_1er_semestre_2023_-_onatel_bf.pdf"
  },
  {
   "ticker": "SOGC",

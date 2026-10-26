@@ -12,6 +12,18 @@
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261023_-_rapport_dactivites_-_1er_semestre_2026_-_nsia_banque_ci.pdf"
  },
  {
+  "id": "document-ONTBF-2026-10-23-0f601ec191",
+  "type": "document",
+  "ticker": "ONTBF",
+  "title": "ONTBF : nouvelle publication financière",
+  "detail": "ONATEL BF a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-23. Source officielle à consulter avant toute décision.",
+  "time": "2026-10-23T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261023_-_rapport_dactivites_-_3e_trimestre_2026_-_onatel_bf.pdf"
+ },
+ {
   "id": "prix-SCRC-2026-10-22-7623b0e6c6",
   "type": "prix",
   "ticker": "SCRC",
