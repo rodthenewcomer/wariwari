@@ -1,5 +1,29 @@
 [
  {
+  "id": "document-BOABF-2026-10-26-c7889e08f3",
+  "type": "document",
+  "ticker": "BOABF",
+  "title": "BOABF : nouvelle publication financière",
+  "detail": "BANK OF AFRICA BF a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-26. Source officielle à consulter avant toute décision.",
+  "time": "2026-10-26T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261026_-_rapport_dactivites_-_3e_trimestre_2026_-_boa_bf.pdf"
+ },
+ {
+  "id": "document-BOAN-2026-10-26-f0fb6e743f",
+  "type": "document",
+  "ticker": "BOAN",
+  "title": "BOAN : nouvelle publication financière",
+  "detail": "BANK OF AFRICA NG a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-26. Source officielle à consulter avant toute décision.",
+  "time": "2026-10-26T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261026_-_rapport_dactivites_-_3e_trimestre_2026_-_boa_ng.pdf"
+ },
+ {
   "id": "prix-FTSC-2026-10-23-8a81d3e66a",
   "type": "prix",
   "ticker": "FTSC",
@@ -319,7 +343,7 @@
   "title": "ABJC : nouvelle publication financière",
   "detail": "SERVAIR ABIDJAN CI a publié « Attestation des commissaires aux comptes sur le rapport dactivites — 1er semestre 2026 » le 2026-10-16. Source officielle à consulter avant toute décision.",
   "time": "2026-10-16T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261016_-_attestation_des_commissaires_aux_comptes_sur_le_rapport_dactivites_-_1er_semestre_2026_-_servair_abidjan_ci.pdf"
@@ -331,7 +355,7 @@
   "title": "ABJC : nouvelle publication financière",
   "detail": "SERVAIR ABIDJAN CI a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-16. Source officielle à consulter avant toute décision.",
   "time": "2026-10-16T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261016_-_rapport_dactivites_-_1er_semestre_2026_-_servair_abidjan_ci.pdf"
@@ -343,7 +367,7 @@
   "title": "ABJC : nouvelle publication financière",
   "detail": "SERVAIR ABIDJAN CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-16. Source officielle à consulter avant toute décision.",
   "time": "2026-10-16T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261016_-_rapport_dactivites_-_3e_trimestre_2026_-_servair_abidjan_ci.pdf"
@@ -503,53 +527,5 @@
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20260928_-_rapport_dactivites_-_1er_semestre_2026_-_sib_ci.pdf"
- },
- {
-  "id": "document-BOAN-2026-09-25-f63366d32c",
-  "type": "document",
-  "ticker": "BOAN",
-  "title": "BOAN : nouvelle publication financière",
-  "detail": "BANK OF AFRICA NG a publié « Attestation des commissaires aux comptes et rapport dactivites — 1er semestre 2026 » le 2026-09-25. S1 2026 : PNB 10,8 Md FCFA (+2,84 % vs S1 2025) ; résultat net 130 M FCFA (-93,58 %). Extraction automatique recoupée, confiance élevée. Source officielle à consulter avant toute décision.",
-  "time": "2026-09-25T09:05:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel",
-  "sourceUrl": "https://www.brvm.org/sites/default/files/20260925_-_attestation_des_commissaires_aux_comptes_et_rapport_dactivites_-_1er_semestre_2026_-_boa_niger.pdf"
- },
- {
-  "id": "document-BBGC-2026-09-24-28e8851e16",
-  "type": "document",
-  "ticker": "BBGC",
-  "title": "BBGC : nouvelle publication financière",
-  "detail": "BRIDGE BANK GROUP CI a publié « Rapport dactivites — 1er semestre 2026 » le 2026-09-24. Source officielle à consulter avant toute décision.",
-  "time": "2026-09-24T09:05:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel",
-  "sourceUrl": "https://www.brvm.org/sites/default/files/20260924_-_rapport_dactivites_-_1er_semestre_2026_-_bridge_bank_group_ci.pdf"
- },
- {
-  "id": "document-BBGC-2026-09-24-2e84dc0be4",
-  "type": "document",
-  "ticker": "BBGC",
-  "title": "BBGC : nouvelle publication financière",
-  "detail": "BRIDGE BANK GROUP CI a publié « Rapport des commissaires aux comptes — 1er semestre 2026 » le 2026-09-24. Source officielle à consulter avant toute décision.",
-  "time": "2026-09-24T09:05:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel",
-  "sourceUrl": "https://www.brvm.org/sites/default/files/20260924_-_rapport_des_commissaires_aux_comptes_-_1er_semestre_2026_-_bridge_bank_group_ci.pdf"
- },
- {
-  "id": "document-BOAM-2026-09-23-bc30c696d3",
-  "type": "document",
-  "ticker": "BOAM",
-  "title": "BOAM : nouvelle publication financière",
-  "detail": "BANK OF AFRICA ML a publié « Rapport dactivites — 1er semestre 2026 » le 2026-09-23. S1 2026 : PNB 22,0 Md FCFA (+17,5 % vs S1 2025) ; résultat net 6,7 Md FCFA (+8,22 %). Extraction automatique recoupée, confiance élevée. Source officielle à consulter avant toute décision.",
-  "time": "2026-09-23T09:05:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel",
-  "sourceUrl": "https://www.brvm.org/sites/default/files/20260923_-_rapport_dactivites_-_1er_semestre_2026_-_boa_mali.pdf"
  }
 ]

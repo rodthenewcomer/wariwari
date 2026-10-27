@@ -1,5 +1,19 @@
 [
  {
+  "ticker": "BOABF",
+  "title": "Rapport dactivites — 3e trimestre 2026",
+  "type": "Résultats",
+  "date": "2026-10-26",
+  "url": "https://www.brvm.org/sites/default/files/20261026_-_rapport_dactivites_-_3e_trimestre_2026_-_boa_bf.pdf"
+ },
+ {
+  "ticker": "BOAN",
+  "title": "Rapport dactivites — 3e trimestre 2026",
+  "type": "Résultats",
+  "date": "2026-10-26",
+  "url": "https://www.brvm.org/sites/default/files/20261026_-_rapport_dactivites_-_3e_trimestre_2026_-_boa_ng.pdf"
+ },
+ {
   "ticker": "NSBC",
   "title": "Rapport dactivites — 1er semestre 2026",
   "type": "Résultats",
@@ -4620,13 +4634,6 @@
   "url": "https://www.brvm.org/sites/default/files/20230817_-_etats_financiers_-_1er_semestre_2023_-_boa_bf.pdf"
  },
  {
-  "ticker": "BOABF",
-  "title": "Rapport dactivites — 1er semestre 2023",
-  "type": "Résultats",
-  "date": "2023-08-17",
-  "url": "https://www.brvm.org/sites/default/files/20230817_-_rapport_dactivites_-_1er_semestre_2023_-_boa_bf.pdf"
- },
- {
   "ticker": "SMBC",
   "title": "Etats financiers certifies et approuves — exercice 2022",
   "type": "États financiers",
@@ -5178,13 +5185,6 @@
   "type": "Communiqué",
   "date": "2022-12-09",
   "url": "https://www.brvm.org/sites/default/files/20221209_-_rapport_dactivite_audite_-_3eme_trimestre_2022_-_eti_tg.pdf"
- },
- {
-  "ticker": "BOAN",
-  "title": "Attestation des commissaires aux comptes et rapport dactivites — 1er semestre 2022",
-  "type": "Résultats",
-  "date": "2022-12-07",
-  "url": "https://www.brvm.org/sites/default/files/20221207_-_attestation_des_commissaires_aux_comptes_et_rapport_dactivites_-_1er_semestre_2022_-_boa_niger.pdf"
  },
  {
   "ticker": "BOAS",
