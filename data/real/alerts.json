@@ -1,5 +1,82 @@
 [
  {
+  "id": "prix-BOAM-2026-10-26-5c1658ee1b",
+  "type": "prix",
+  "ticker": "BOAM",
+  "title": "BOAM : +5,45 % sur la séance",
+  "detail": "BANK OF AFRICA ML clôture à 5 800 FCFA le 2026-10-26  contre 5 500 FCFA la séance précédente (2 221 titres échangés).",
+  "time": "2026-10-26T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-CFAC-2026-10-26-caef729ee7",
+  "type": "prix",
+  "ticker": "CFAC",
+  "title": "CFAC : -5,92 % sur la séance",
+  "detail": "CFAO MOTORS CI clôture à 1 350 FCFA le 2026-10-26  contre 1 435 FCFA la séance précédente (4 717 titres échangés).",
+  "time": "2026-10-26T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-NSBC-2026-10-26-07865a4496",
+  "type": "prix",
+  "ticker": "NSBC",
+  "title": "NSBC : -7,49 % sur la séance",
+  "detail": "NSIA BANQUE COTE D'IVOIRE clôture à 19 150 FCFA le 2026-10-26  contre 20 700 FCFA la séance précédente (5 273 titres échangés).",
+  "time": "2026-10-26T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-SNTS-2026-10-26-e89cb1d510",
+  "type": "prix",
+  "ticker": "SNTS",
+  "title": "SNTS : +7,18 % sur la séance",
+  "detail": "SONATEL SN clôture à 4 700 FCFA le 2026-10-26  contre 43 850 FCFA la séance précédente (323 351 titres échangés).",
+  "time": "2026-10-26T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-SNTS-2026-10-26-a380c1d1b8",
+  "type": "prix",
+  "ticker": "SNTS",
+  "title": "SNTS au plus bas 52 semaines",
+  "detail": "SONATEL SN clôture à 4 700 FCFA le 2026-10-26 — sous son plus bas des 52 dernières semaines (24 400 FCFA).",
+  "time": "2026-10-26T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "volume-SNTS-2026-10-26-d7beb0e4a2",
+  "type": "volume",
+  "ticker": "SNTS",
+  "title": "Volume inhabituel sur SNTS",
+  "detail": "323 351 titres SONATEL SN échangés le 2026-10-26  soit 11.0× la moyenne des 30 séances précédentes.",
+  "time": "2026-10-26T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-UNLC-2026-10-26-0ccb751347",
+  "type": "prix",
+  "ticker": "UNLC",
+  "title": "UNLC : -6,53 % sur la séance",
+  "detail": "UNILEVER CI clôture à 45 200 FCFA le 2026-10-26  contre 48 360 FCFA la séance précédente (9 titres échangés).",
+  "time": "2026-10-26T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
   "id": "document-BOABF-2026-10-26-c7889e08f3",
   "type": "document",
   "ticker": "BOABF",
@@ -275,7 +352,7 @@
   "type": "volume",
   "ticker": "SNTS",
   "title": "Volume inhabituel sur SNTS",
-  "detail": "102 221 titres SONATEL SN (Val-T) échangés le 2026-10-20  soit 4.1× la moyenne des 30 séances précédentes.",
+  "detail": "102 221 titres SONATEL SN échangés le 2026-10-20  soit 4.1× la moyenne des 30 séances précédentes.",
   "time": "2026-10-20T15:30:00+00:00",
   "severity": "info",
   "active": true,
@@ -310,28 +387,6 @@
   "title": "TTLS : -5,48 % sur la séance",
   "detail": "TOTALENERGIES MARKETING SN clôture à 3 450 FCFA le 2026-10-20  contre 3 650 FCFA la séance précédente (8 708 titres échangés).",
   "time": "2026-10-20T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SCRC-2026-10-19-082746c155",
-  "type": "prix",
-  "ticker": "SCRC",
-  "title": "SCRC : -5,29 % sur la séance",
-  "detail": "SUCRIVOIRE clôture à 2 150 FCFA le 2026-10-19  contre 2 270 FCFA la séance précédente (9 166 titres échangés).",
-  "time": "2026-10-19T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-TTLC-2026-10-19-111550b673",
-  "type": "prix",
-  "ticker": "TTLC",
-  "title": "TTLC : -7,26 % sur la séance",
-  "detail": "TOTALENERGIES MARKETING CI clôture à 2 875 FCFA le 2026-10-19  contre 3 100 FCFA la séance précédente (1 030 titres échangés).",
-  "time": "2026-10-19T15:30:00+00:00",
   "severity": "warning",
   "active": true,
   "basis": "réel"
