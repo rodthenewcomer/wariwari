@@ -1,5 +1,41 @@
 [
  {
+  "id": "document-BNBC-2026-10-27-a5db124efa",
+  "type": "document",
+  "ticker": "BNBC",
+  "title": "BNBC : nouvelle publication financière",
+  "detail": "BERNABE CI a publié « Attestation des commissaires aux comptes sur le rapport dactivites — 1er semestre 2026 » le 2026-10-27. Source officielle à consulter avant toute décision.",
+  "time": "2026-10-27T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261027_-_attestation_des_commissaires_aux_comptes_sur_le_rapport_dactivites_-_1er_semestre_2026_-_bernabe_ci.pdf"
+ },
+ {
+  "id": "document-BNBC-2026-10-27-653f05de27",
+  "type": "document",
+  "ticker": "BNBC",
+  "title": "BNBC : nouvelle publication financière",
+  "detail": "BERNABE CI a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-27. Source officielle à consulter avant toute décision.",
+  "time": "2026-10-27T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261027_-_rapport_dactivites_-_1er_semestre_2026_-_bernabe_ci.pdf"
+ },
+ {
+  "id": "document-BNBC-2026-10-27-0976a406aa",
+  "type": "document",
+  "ticker": "BNBC",
+  "title": "BNBC : nouvelle publication financière",
+  "detail": "BERNABE CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-27. Source officielle à consulter avant toute décision.",
+  "time": "2026-10-27T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261027_-_rapport_dactivites_-_3e_trimestre_2026_-_bernabe_ci.pdf"
+ },
+ {
   "id": "prix-BOAM-2026-10-26-5c1658ee1b",
   "type": "prix",
   "ticker": "BOAM",

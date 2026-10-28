@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T17:18:30.046506+00:00",
+  "generatedAt": "2026-10-28T10:57:00.774390+00:00",
   "results": {
     "ABJC": {
       "ticker": "ABJC",
@@ -63,24 +63,17 @@
     "BNBC": {
       "ticker": "BNBC",
       "fiscalYear": 2026,
-      "periodType": "quarterly",
-      "periodCode": "T1",
-      "periodLabel": "T1 2026",
-      "comparisonLabel": "T1 2025",
-      "asOfDate": "2026-03-31",
-      "revenueLabel": "CA",
-      "revenueM": 11194,
-      "revenuePrevM": 11207,
-      "netIncomeM": 66,
-      "netIncomePrevM": 16,
-      "ordinaryIncomeM": 66,
-      "ordinaryIncomePrevM": 22,
-      "source": "https://www.brvm.org/sites/default/files/20260430_-_rapport_dactivites_-_1er_trimestre_2026_-_bernabe_ci.pdf",
-      "publishedOn": "2026-04-30",
-      "status": "integrated",
-      "confidence": "high",
+      "periodType": "semiannual",
+      "periodCode": "S1",
+      "periodLabel": "S1 2026",
+      "comparisonLabel": "S1 2025",
+      "asOfDate": "2026-06-30",
+      "source": "https://www.brvm.org/sites/default/files/20261027_-_attestation_des_commissaires_aux_comptes_sur_le_rapport_dactivites_-_1er_semestre_2026_-_bernabe_ci.pdf",
+      "publishedOn": "2026-10-27",
+      "status": "review_required",
+      "confidence": "low",
       "sourceType": "publication officielle BRVM",
-      "unit": "millions FCFA"
+      "detail": "Publication détectée; chiffres non publiés faute de recoupement automatique suffisant."
     },
     "BOAB": {
       "ticker": "BOAB",

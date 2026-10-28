@@ -1,5 +1,26 @@
 [
  {
+  "ticker": "BNBC",
+  "title": "Attestation des commissaires aux comptes sur le rapport dactivites — 1er semestre 2026",
+  "type": "Résultats",
+  "date": "2026-10-27",
+  "url": "https://www.brvm.org/sites/default/files/20261027_-_attestation_des_commissaires_aux_comptes_sur_le_rapport_dactivites_-_1er_semestre_2026_-_bernabe_ci.pdf"
+ },
+ {
+  "ticker": "BNBC",
+  "title": "Rapport dactivites — 1er semestre 2026",
+  "type": "Résultats",
+  "date": "2026-10-27",
+  "url": "https://www.brvm.org/sites/default/files/20261027_-_rapport_dactivites_-_1er_semestre_2026_-_bernabe_ci.pdf"
+ },
+ {
+  "ticker": "BNBC",
+  "title": "Rapport dactivites — 3e trimestre 2026",
+  "type": "Résultats",
+  "date": "2026-10-27",
+  "url": "https://www.brvm.org/sites/default/files/20261027_-_rapport_dactivites_-_3e_trimestre_2026_-_bernabe_ci.pdf"
+ },
+ {
   "ticker": "BOABF",
   "title": "Rapport dactivites — 3e trimestre 2026",
   "type": "Résultats",
@@ -5509,13 +5530,6 @@
   "url": "https://www.brvm.org/sites/default/files/20220928_-_rapport_dactivite_du_1er_semestre_2022_-_sogb_ci.pdf"
  },
  {
-  "ticker": "BNBC",
-  "title": "Rapport dactivite du 1er semestre 2022",
-  "type": "Communiqué",
-  "date": "2022-09-26",
-  "url": "https://www.brvm.org/sites/default/files/20220926_-_rapport_dactivite_du_1er_semestre_2022_-_bernabe_ci.pdf"
- },
- {
   "ticker": "ORGT",
   "title": "Attestation cac sur le rapport dactivites 1er semestre 2022",
   "type": "Résultats",
@@ -5668,20 +5682,6 @@
   "type": "Communiqué",
   "date": "2022-05-06",
   "url": "https://www.brvm.org/sites/default/files/20220506_-_rapport_dactivite_-_1er_trimestre_2022_-_filtisac_ci.pdf"
- },
- {
-  "ticker": "BNBC",
-  "title": "Etats financiers exercice 2021",
-  "type": "États financiers",
-  "date": "2022-05-03",
-  "url": "https://www.brvm.org/sites/default/files/20220503_-_etats_financiers_exercice_2021_-_bernabe_ci.pdf"
- },
- {
-  "ticker": "BNBC",
-  "title": "Rapport dactivite — 1er trimestre 2022",
-  "type": "Communiqué",
-  "date": "2022-05-03",
-  "url": "https://www.brvm.org/sites/default/files/20220503_-_rapport_dactivite_-_1er_trimestre_2022_-_bernabe_ci.pdf"
  },
  {
   "ticker": "BOAB",
