@@ -1,5 +1,126 @@
 [
  {
+  "id": "prix-BOABF-2026-10-27-f62e240724",
+  "type": "prix",
+  "ticker": "BOABF",
+  "title": "BOABF : +5,74 % sur la séance",
+  "detail": "BANK OF AFRICA BF clôture à 8 100 FCFA le 2026-10-27  contre 7 660 FCFA la séance précédente (13 682 titres échangés).",
+  "time": "2026-10-27T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "volume-BOAN-2026-10-27-e7ba1207b0",
+  "type": "volume",
+  "ticker": "BOAN",
+  "title": "Volume inhabituel sur BOAN",
+  "detail": "31 224 titres BANK OF AFRICA NG échangés le 2026-10-27  soit 3.7× la moyenne des 30 séances précédentes.",
+  "time": "2026-10-27T15:30:00+00:00",
+  "severity": "info",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-CIEC-2026-10-27-a48e553e6e",
+  "type": "prix",
+  "ticker": "CIEC",
+  "title": "CIEC : +7,47 % sur la séance",
+  "detail": "CIE CI clôture à 5 250 FCFA le 2026-10-27  contre 4 885 FCFA la séance précédente (9 245 titres échangés).",
+  "time": "2026-10-27T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-FTSC-2026-10-27-8a81d3e66a",
+  "type": "prix",
+  "ticker": "FTSC",
+  "title": "FTSC au plus bas 52 semaines",
+  "detail": "FILTISAC CI clôture à 1 725 FCFA le 2026-10-27 — sous son plus bas des 52 dernières semaines (1 795 FCFA).",
+  "time": "2026-10-27T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-SCRC-2026-10-27-1149df8d30",
+  "type": "prix",
+  "ticker": "SCRC",
+  "title": "SCRC : -7,5 % sur la séance",
+  "detail": "SUCRIVOIRE clôture à 2 220 FCFA le 2026-10-27  contre 2 400 FCFA la séance précédente (9 224 titres échangés).",
+  "time": "2026-10-27T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-SDCC-2026-10-27-82c882eb41",
+  "type": "prix",
+  "ticker": "SDCC",
+  "title": "SDCC : +7,5 % sur la séance",
+  "detail": "SODE CI clôture à 12 690 FCFA le 2026-10-27  contre 11 805 FCFA la séance précédente (412 titres échangés).",
+  "time": "2026-10-27T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-SDSC-2026-10-27-ab1503ff1e",
+  "type": "prix",
+  "ticker": "SDSC",
+  "title": "SDSC : -6,33 % sur la séance",
+  "detail": "AFRICA GLOBAL LOGISTICS CI clôture à 2 810 FCFA le 2026-10-27  contre 3 000 FCFA la séance précédente (12 873 titres échangés).",
+  "time": "2026-10-27T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-SNTS-2026-10-27-91484f4be1",
+  "type": "prix",
+  "ticker": "SNTS",
+  "title": "SNTS : -5,85 % sur la séance",
+  "detail": "SONATEL SN clôture à 4 425 FCFA le 2026-10-27  contre 4 700 FCFA la séance précédente (309 660 titres échangés).",
+  "time": "2026-10-27T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-SNTS-2026-10-27-a380c1d1b8",
+  "type": "prix",
+  "ticker": "SNTS",
+  "title": "SNTS au plus bas 52 semaines",
+  "detail": "SONATEL SN clôture à 4 425 FCFA le 2026-10-27 — sous son plus bas des 52 dernières semaines (4 700 FCFA).",
+  "time": "2026-10-27T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "volume-SNTS-2026-10-27-d7beb0e4a2",
+  "type": "volume",
+  "ticker": "SNTS",
+  "title": "Volume inhabituel sur SNTS",
+  "detail": "309 660 titres SONATEL SN échangés le 2026-10-27  soit 7.7× la moyenne des 30 séances précédentes.",
+  "time": "2026-10-27T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-STAC-2026-10-27-77b82a75fc",
+  "type": "prix",
+  "ticker": "STAC",
+  "title": "STAC : -5,03 % sur la séance",
+  "detail": "SETAO CI clôture à 1 795 FCFA le 2026-10-27  contre 1 890 FCFA la séance précédente (4 032 titres échangés).",
+  "time": "2026-10-27T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
   "id": "document-BNBC-2026-10-27-a5db124efa",
   "type": "document",
   "ticker": "BNBC",
@@ -34,6 +155,17 @@
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261027_-_rapport_dactivites_-_3e_trimestre_2026_-_bernabe_ci.pdf"
+ },
+ {
+  "id": "dividende-SDSC-2026-10-27-d1a3b55ce1",
+  "type": "dividende",
+  "ticker": "SDSC",
+  "title": "Dividende SDSC : 92 FCFA net par action",
+  "detail": "AFRICA GLOBAL LOGISTICS CI a payé un dividende net de 92 FCFA par action le 2026-10-27 (source : bulletin officiel).",
+  "time": "2026-10-27T09:00:00+00:00",
+  "severity": "info",
+  "active": true,
+  "basis": "réel"
  },
  {
   "id": "prix-BOAM-2026-10-26-5c1658ee1b",
@@ -76,17 +208,6 @@
   "detail": "SONATEL SN clôture à 4 700 FCFA le 2026-10-26  contre 43 850 FCFA la séance précédente (323 351 titres échangés).",
   "time": "2026-10-26T15:30:00+00:00",
   "severity": "positive",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SNTS-2026-10-26-a380c1d1b8",
-  "type": "prix",
-  "ticker": "SNTS",
-  "title": "SNTS au plus bas 52 semaines",
-  "detail": "SONATEL SN clôture à 4 700 FCFA le 2026-10-26 — sous son plus bas des 52 dernières semaines (24 400 FCFA).",
-  "time": "2026-10-26T15:30:00+00:00",
-  "severity": "warning",
   "active": true,
   "basis": "réel"
  },
@@ -135,17 +256,6 @@
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261026_-_rapport_dactivites_-_3e_trimestre_2026_-_boa_ng.pdf"
- },
- {
-  "id": "prix-FTSC-2026-10-23-8a81d3e66a",
-  "type": "prix",
-  "ticker": "FTSC",
-  "title": "FTSC au plus bas 52 semaines",
-  "detail": "FILTISAC CI clôture à 1 795 FCFA le 2026-10-23 — sous son plus bas des 52 dernières semaines (1 800 FCFA).",
-  "time": "2026-10-23T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
  },
  {
   "id": "prix-SDCC-2026-10-23-1f476e11f7",
@@ -294,138 +404,6 @@
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261021_-_rapport_dactivites_-_3e_trimestre_2026_-_boa_sn.pdf"
- },
- {
-  "id": "prix-BBGC-2026-10-20-04622d641e",
-  "type": "prix",
-  "ticker": "BBGC",
-  "title": "BBGC : -5,31 % sur la séance",
-  "detail": "BRIDGE BANK GROUP CI clôture à 9 800 FCFA le 2026-10-20  contre 10 350 FCFA la séance précédente (11 981 titres échangés).",
-  "time": "2026-10-20T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-BNBC-2026-10-20-9752cdbbe6",
-  "type": "prix",
-  "ticker": "BNBC",
-  "title": "BNBC : -7,03 % sur la séance",
-  "detail": "BERNABE CI clôture à 1 720 FCFA le 2026-10-20  contre 1 850 FCFA la séance précédente (1 489 titres échangés).",
-  "time": "2026-10-20T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-BOAN-2026-10-20-88d7268fb0",
-  "type": "prix",
-  "ticker": "BOAN",
-  "title": "BOAN : +6,67 % sur la séance",
-  "detail": "BANK OF AFRICA NG clôture à 4 800 FCFA le 2026-10-20  contre 4 500 FCFA la séance précédente (11 275 titres échangés).",
-  "time": "2026-10-20T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-CIEC-2026-10-20-dcf67847c4",
-  "type": "prix",
-  "ticker": "CIEC",
-  "title": "CIEC : -6,31 % sur la séance",
-  "detail": "CIE CI clôture à 5 200 FCFA le 2026-10-20  contre 5 550 FCFA la séance précédente (5 158 titres échangés).",
-  "time": "2026-10-20T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-ONTBF-2026-10-20-4c4aa7f720",
-  "type": "prix",
-  "ticker": "ONTBF",
-  "title": "ONTBF : +7,41 % sur la séance",
-  "detail": "ONATEL BF clôture à 3 115 FCFA le 2026-10-20  contre 2 900 FCFA la séance précédente (9 758 titres échangés).",
-  "time": "2026-10-20T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-ONTBF-2026-10-20-f22a53c56a",
-  "type": "prix",
-  "ticker": "ONTBF",
-  "title": "ONTBF au plus haut 52 semaines",
-  "detail": "ONATEL BF clôture à 3 115 FCFA le 2026-10-20 — au-delà de son plus haut des 52 dernières semaines (3 095 FCFA).",
-  "time": "2026-10-20T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SDCC-2026-10-20-dfa7484f0a",
-  "type": "prix",
-  "ticker": "SDCC",
-  "title": "SDCC : -6,79 % sur la séance",
-  "detail": "SODE CI clôture à 12 010 FCFA le 2026-10-20  contre 12 885 FCFA la séance précédente (5 248 titres échangés).",
-  "time": "2026-10-20T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "volume-SDSC-2026-10-20-4c49f38081",
-  "type": "volume",
-  "ticker": "SDSC",
-  "title": "Volume inhabituel sur SDSC",
-  "detail": "36 979 titres AFRICA GLOBAL LOGISTICS CI échangés le 2026-10-20  soit 3.1× la moyenne des 30 séances précédentes.",
-  "time": "2026-10-20T15:30:00+00:00",
-  "severity": "info",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "volume-SNTS-2026-10-20-d7beb0e4a2",
-  "type": "volume",
-  "ticker": "SNTS",
-  "title": "Volume inhabituel sur SNTS",
-  "detail": "102 221 titres SONATEL SN échangés le 2026-10-20  soit 4.1× la moyenne des 30 séances précédentes.",
-  "time": "2026-10-20T15:30:00+00:00",
-  "severity": "info",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-STAC-2026-10-20-c2b0501170",
-  "type": "prix",
-  "ticker": "STAC",
-  "title": "STAC : -6,19 % sur la séance",
-  "detail": "SETAO CI clôture à 1 895 FCFA le 2026-10-20  contre 2 020 FCFA la séance précédente (18 355 titres échangés).",
-  "time": "2026-10-20T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "volume-STAC-2026-10-20-bc83ef8d2b",
-  "type": "volume",
-  "ticker": "STAC",
-  "title": "Volume inhabituel sur STAC",
-  "detail": "18 355 titres SETAO CI échangés le 2026-10-20  soit 3.9× la moyenne des 30 séances précédentes.",
-  "time": "2026-10-20T15:30:00+00:00",
-  "severity": "info",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-TTLS-2026-10-20-1c49ce614c",
-  "type": "prix",
-  "ticker": "TTLS",
-  "title": "TTLS : -5,48 % sur la séance",
-  "detail": "TOTALENERGIES MARKETING SN clôture à 3 450 FCFA le 2026-10-20  contre 3 650 FCFA la séance précédente (8 708 titres échangés).",
-  "time": "2026-10-20T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
  },
  {
   "id": "document-ABJC-2026-10-16-5441293d24",
