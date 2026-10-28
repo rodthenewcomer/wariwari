@@ -21,6 +21,41 @@
   "url": "https://www.brvm.org/sites/default/files/20261027_-_rapport_dactivites_-_3e_trimestre_2026_-_bernabe_ci.pdf"
  },
  {
+  "ticker": "ECOC",
+  "title": "Rapport dactivites — 3e trimestre 2026",
+  "type": "Résultats",
+  "date": "2026-10-27",
+  "url": "https://www.brvm.org/sites/default/files/20261027_-_rapport_dactivites_-_3e_trimestre_2026_-_ecobank_ci.pdf"
+ },
+ {
+  "ticker": "PALC",
+  "title": "Rapport dactivites — 3e trimestre 2026",
+  "type": "Résultats",
+  "date": "2026-10-27",
+  "url": "https://www.brvm.org/sites/default/files/20261027_-_rapport_dactivites_-_3e_trimestre_2026_-_palm_ci.pdf"
+ },
+ {
+  "ticker": "TTLC",
+  "title": "Attestation des commissaires aux comptes sur le rapport dactivites — 1er semestre 2026",
+  "type": "Résultats",
+  "date": "2026-10-27",
+  "url": "https://www.brvm.org/sites/default/files/20261027_-_attestation_des_commissaires_aux_comptes_sur_le_rapport_dactivites_-_1er_semestre_2026_-_totalenergies_marketing_ci.pdf"
+ },
+ {
+  "ticker": "TTLC",
+  "title": "Rapport dactivites — 1er semestre 2026",
+  "type": "Résultats",
+  "date": "2026-10-27",
+  "url": "https://www.brvm.org/sites/default/files/20261027_-_rapport_dactivites_-_1er_semestre_2026_-_totalenergies_marketing_ci.pdf"
+ },
+ {
+  "ticker": "TTLC",
+  "title": "Rapport dactivites — 3e trimestre 2026",
+  "type": "Résultats",
+  "date": "2026-10-27",
+  "url": "https://www.brvm.org/sites/default/files/20261027_-_rapport_dactivites_-_3e_trimestre_2026_-_totalenergies_marketing_ci.pdf"
+ },
+ {
   "ticker": "BOABF",
   "title": "Rapport dactivites — 3e trimestre 2026",
   "type": "Résultats",
@@ -5040,13 +5075,6 @@
   "url": "https://www.brvm.org/sites/default/files/20230427_-_etats_financiers_exercice_2022_-_totalenergies_marketing_ci.pdf"
  },
  {
-  "ticker": "TTLC",
-  "title": "Rapport dactivite — 1er trimestre 2023",
-  "type": "Communiqué",
-  "date": "2023-04-27",
-  "url": "https://www.brvm.org/sites/default/files/20230427_-_rapport_dactivite_-_1er_trimestre_2023_-_totalenergies_marketing_ci.pdf"
- },
- {
   "ticker": "ORGT",
   "title": "Etats financiers exercice 2022",
   "type": "États financiers",
@@ -5271,13 +5299,6 @@
   "url": "https://www.brvm.org/sites/default/files/20221103_-_rapport_dactivite_-_3eme_trimestre_2022_-_sogb_ci.pdf"
  },
  {
-  "ticker": "ECOC",
-  "title": "Rapport dactivite — 3eme trimestre 2022",
-  "type": "Communiqué",
-  "date": "2022-11-02",
-  "url": "https://www.brvm.org/sites/default/files/20221102_-_rapport_dactivite_-_3eme_trimestre_2022_-_ecobank_ci.pdf"
- },
- {
   "ticker": "NEIC",
   "title": "Rapport dactivite — 3eme trimestre 2022",
   "type": "Communiqué",
@@ -5290,20 +5311,6 @@
   "type": "Communiqué",
   "date": "2022-11-02",
   "url": "https://www.brvm.org/sites/default/files/20221102_-_rapport_dactivite_-_3eme_trimestre_2022_-_smb_ci.pdf"
- },
- {
-  "ticker": "TTLC",
-  "title": "Attestation des commissaires aux comptes — 1er semestre 2022",
-  "type": "États financiers",
-  "date": "2022-11-02",
-  "url": "https://www.brvm.org/sites/default/files/20221102_-_attestation_des_commissaires_aux_comptes_-_1er_semestre_2022_-_total_ci.pdf"
- },
- {
-  "ticker": "TTLC",
-  "title": "Rapport dactivite — 3eme trimestre 2022",
-  "type": "Communiqué",
-  "date": "2022-11-02",
-  "url": "https://www.brvm.org/sites/default/files/20221102_-_rapport_dactivite_-_3eme_trimestre_2022_-_total_ci.pdf"
  },
  {
   "ticker": "CIEC",
@@ -5766,13 +5773,6 @@
   "type": "États financiers",
   "date": "2022-04-26",
   "url": "https://www.brvm.org/sites/default/files/20220426_-_etats_financiers_exercice_2021_-_oragroup_tg.pdf"
- },
- {
-  "ticker": "PALC",
-  "title": "Etats financiers exercice 2021",
-  "type": "États financiers",
-  "date": "2022-04-26",
-  "url": "https://www.brvm.org/sites/default/files/20220426_-_etats_financiers_exercice_2021_-_palm_ci.pdf"
  },
  {
   "ticker": "SDCC",

@@ -157,6 +157,66 @@
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261027_-_rapport_dactivites_-_3e_trimestre_2026_-_bernabe_ci.pdf"
  },
  {
+  "id": "document-ECOC-2026-10-27-8bb7eaa89a",
+  "type": "document",
+  "ticker": "ECOC",
+  "title": "ECOC : nouvelle publication financière",
+  "detail": "ECOBANK COTE D''IVOIRE a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-27. Source officielle à consulter avant toute décision.",
+  "time": "2026-10-27T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261027_-_rapport_dactivites_-_3e_trimestre_2026_-_ecobank_ci.pdf"
+ },
+ {
+  "id": "document-PALC-2026-10-27-b41010493d",
+  "type": "document",
+  "ticker": "PALC",
+  "title": "PALC : nouvelle publication financière",
+  "detail": "PALM CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-27. Source officielle à consulter avant toute décision.",
+  "time": "2026-10-27T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261027_-_rapport_dactivites_-_3e_trimestre_2026_-_palm_ci.pdf"
+ },
+ {
+  "id": "document-TTLC-2026-10-27-c9bcd86201",
+  "type": "document",
+  "ticker": "TTLC",
+  "title": "TTLC : nouvelle publication financière",
+  "detail": "TOTALENERGIES MARKETING CI a publié « Attestation des commissaires aux comptes sur le rapport dactivites — 1er semestre 2026 » le 2026-10-27. Source officielle à consulter avant toute décision.",
+  "time": "2026-10-27T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261027_-_attestation_des_commissaires_aux_comptes_sur_le_rapport_dactivites_-_1er_semestre_2026_-_totalenergies_marketing_ci.pdf"
+ },
+ {
+  "id": "document-TTLC-2026-10-27-5e699f7709",
+  "type": "document",
+  "ticker": "TTLC",
+  "title": "TTLC : nouvelle publication financière",
+  "detail": "TOTALENERGIES MARKETING CI a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-27. Source officielle à consulter avant toute décision.",
+  "time": "2026-10-27T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261027_-_rapport_dactivites_-_1er_semestre_2026_-_totalenergies_marketing_ci.pdf"
+ },
+ {
+  "id": "document-TTLC-2026-10-27-bbdbd11f9f",
+  "type": "document",
+  "ticker": "TTLC",
+  "title": "TTLC : nouvelle publication financière",
+  "detail": "TOTALENERGIES MARKETING CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-27. Source officielle à consulter avant toute décision.",
+  "time": "2026-10-27T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261027_-_rapport_dactivites_-_3e_trimestre_2026_-_totalenergies_marketing_ci.pdf"
+ },
+ {
   "id": "dividende-SDSC-2026-10-27-d1a3b55ce1",
   "type": "dividende",
   "ticker": "SDSC",
