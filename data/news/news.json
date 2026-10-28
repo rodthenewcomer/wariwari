@@ -1,5 +1,15 @@
 [
  {
+  "title": "La quotidienne des marchés financiers africains : Dangote clôture son offre, Ecobank fait parler",
+  "link": "https://www.financialafrik.com/2026/10/28/la-quotidienne-des-marches-financiers-africains-dangote-cloture-son-offre-ecobank-fait-parler/",
+  "source": "Financial Afrik",
+  "publishedAt": "2026-10-28T17:05:21+00:00",
+  "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire. Lire la suite»",
+  "tickers": [
+   "ETIT"
+  ]
+ },
+ {
   "title": "Ecobank franchit les 2 milliards de dollars de revenus en dépit du boulet Nigérian et du recul de l’UEMOA",
   "link": "https://www.financialafrik.com/2026/10/28/ecobank-franchit-les-2-milliards-de-dollars-de-revenus-en-depit-du-boulet-nigerian-et-du-recul-de-luemoa/",
   "source": "Financial Afrik",
@@ -7,6 +17,26 @@
   "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire. Lire la suite»",
   "tickers": [
    "ETIT"
+  ]
+ },
+ {
+  "title": "PALMCI : Le bénéfice recule de 12% à fin septembre 2026, malgré un redressement au 3ème trimestre",
+  "link": "https://www.sikafinance.com/premium/palmci-le-benefice-recule-de-12-a-fin-septembre-2026-malgre-un-redressement-au-3eme-trimestre_65323",
+  "source": "Sika Finance",
+  "publishedAt": "2026-10-28T16:09:05+00:00",
+  "summary": "PALMCI affiche un résultat net en baisse à fin septembre 2026, pénalisé par un début d'année difficile et la hausse des coûts d'approvisionneme...",
+  "tickers": [
+   "PALC"
+  ]
+ },
+ {
+  "title": "BRVM : Sonatel capte un volume historique de 10 milliards FCFA dans un marché hésitant",
+  "link": "https://www.sikafinance.com/marches/brvm-sonatel-capte-un-volume-historique-de-10-milliards-fcfa-dans-un-marche-hesitant_65321",
+  "source": "Sika Finance",
+  "publishedAt": "2026-10-28T15:41:54+00:00",
+  "summary": "La BRVM prolonge son mouvement de baisse. Les trois principaux indices terminent dans le rouge : le BRVM-Composite recule de 0,70 % à 528,34 points,...",
+  "tickers": [
+   "SNTS"
   ]
  },
  {
@@ -1178,36 +1208,6 @@
   "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire. Lire la suite»",
   "tickers": [
    "SDCC"
-  ]
- },
- {
-  "title": "Mohamed EL GHAZI (DG DE LA SIB) : ‘’Soutenir les ambitions de la Côte d’Ivoire, aujourd’hui et demain’’",
-  "link": "https://www.sikafinance.com/marches/mohamed-el-ghazi-dg-de-la-sib-soutenir-les-ambitions-de-la-cote-divoire-aujourdhui-et-demain_64040",
-  "source": "Sika Finance",
-  "publishedAt": "2026-09-04T09:36:40+00:00",
-  "summary": "Mohamed EL GHAZI (DG DE LA SIB) : Soutenir les ambitions de la Côte d'Ivoire, aujourd'hui et demainPionnière du paysage bancaire ivoirien, la S...",
-  "tickers": [
-   "SIBC"
-  ]
- },
- {
-  "title": "Alios Finance CI : Le bénéfice bondit de 231% à 731 millions FCFA à fin juin 2026",
-  "link": "https://www.sikafinance.com/marches/alios-finance-ci-le-benefice-bondit-de-231-a-731-millions-fcfa-a-fin-juin-2026_64031",
-  "source": "Sika Finance",
-  "publishedAt": "2026-09-04T07:11:28+00:00",
-  "summary": "Alios Finance Côte d'Ivoire (ex-SAFCA) poursuit sa dynamique de croissance au premier semestre 2026, avec un résultat net de 731 millions FCFA,...",
-  "tickers": [
-   "SAFC"
-  ]
- },
- {
-  "title": "BRVM : Le rallye s’accélère, BICICI et SONATEL tirent la cote",
-  "link": "https://www.sikafinance.com/marches/brvm-le-rallye-saccelere-bicici-et-sonatel-tirent-la-cote_64022",
-  "source": "Sika Finance",
-  "publishedAt": "2026-09-03T14:59:06+00:00",
-  "summary": "La BRVM a nettement accéléré ce jeudi 3 septembre 2026, portée par une vague d'achats qui s'est étendue à une large partie de la cote. Le BRVM-Compos...",
-  "tickers": [
-   "SNTS"
   ]
  }
 ]
