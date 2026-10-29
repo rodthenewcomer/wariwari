@@ -1,5 +1,65 @@
 [
  {
+  "id": "document-BBGC-2026-10-28-f345db3eec",
+  "type": "document",
+  "ticker": "BBGC",
+  "title": "BBGC : nouvelle publication financière",
+  "detail": "BRIDGE BANK GROUP CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-28. Source officielle à consulter avant toute décision.",
+  "time": "2026-10-28T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261028_-_rapport_dactivites_-_3e_trimestre_2026_-_bridge_bank_group_ci.pdf"
+ },
+ {
+  "id": "document-ETIT-2026-10-28-40ea2e4c09",
+  "type": "document",
+  "ticker": "ETIT",
+  "title": "ETIT : nouvelle publication financière",
+  "detail": "ECOBANK TRANS. INCORP. TG a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-28. Source officielle à consulter avant toute décision.",
+  "time": "2026-10-28T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261028_-_rapport_dactivites_-_3e_trimestre_2026_-_eti_tg.pdf"
+ },
+ {
+  "id": "document-LNBB-2026-10-28-2b4fe789dc",
+  "type": "document",
+  "ticker": "LNBB",
+  "title": "LNBB : nouvelle publication financière",
+  "detail": "LOTERIE NATIONALE DU BENIN a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-28. Source officielle à consulter avant toute décision.",
+  "time": "2026-10-28T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261028_-_rapport_dactivites_-_3e_trimestre_2026_-_lnb_bn.pdf"
+ },
+ {
+  "id": "document-ORAC-2026-10-28-70af3c6c72",
+  "type": "document",
+  "ticker": "ORAC",
+  "title": "ORAC : nouvelle publication financière",
+  "detail": "ORANGE COTE D'IVOIRE a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-28. Source officielle à consulter avant toute décision.",
+  "time": "2026-10-28T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261028_-_rapport_dactivites_-_3e_trimestre_2026_-_orange_ci.pdf"
+ },
+ {
+  "id": "document-UNXC-2026-10-28-85f8236650",
+  "type": "document",
+  "ticker": "UNXC",
+  "title": "UNXC : nouvelle publication financière",
+  "detail": "UNIWAX CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-28. Source officielle à consulter avant toute décision.",
+  "time": "2026-10-28T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261028_-_rapport_dactivites_-_3e_trimestre_2026_-_uniwax_ci.pdf"
+ },
+ {
   "id": "prix-BOABF-2026-10-27-f62e240724",
   "type": "prix",
   "ticker": "BOABF",

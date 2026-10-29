@@ -1,5 +1,40 @@
 [
  {
+  "ticker": "BBGC",
+  "title": "Rapport dactivites — 3e trimestre 2026",
+  "type": "Résultats",
+  "date": "2026-10-28",
+  "url": "https://www.brvm.org/sites/default/files/20261028_-_rapport_dactivites_-_3e_trimestre_2026_-_bridge_bank_group_ci.pdf"
+ },
+ {
+  "ticker": "ETIT",
+  "title": "Rapport dactivites — 3e trimestre 2026",
+  "type": "Résultats",
+  "date": "2026-10-28",
+  "url": "https://www.brvm.org/sites/default/files/20261028_-_rapport_dactivites_-_3e_trimestre_2026_-_eti_tg.pdf"
+ },
+ {
+  "ticker": "LNBB",
+  "title": "Rapport dactivites — 3e trimestre 2026",
+  "type": "Résultats",
+  "date": "2026-10-28",
+  "url": "https://www.brvm.org/sites/default/files/20261028_-_rapport_dactivites_-_3e_trimestre_2026_-_lnb_bn.pdf"
+ },
+ {
+  "ticker": "ORAC",
+  "title": "Rapport dactivites — 3e trimestre 2026",
+  "type": "Résultats",
+  "date": "2026-10-28",
+  "url": "https://www.brvm.org/sites/default/files/20261028_-_rapport_dactivites_-_3e_trimestre_2026_-_orange_ci.pdf"
+ },
+ {
+  "ticker": "UNXC",
+  "title": "Rapport dactivites — 3e trimestre 2026",
+  "type": "Résultats",
+  "date": "2026-10-28",
+  "url": "https://www.brvm.org/sites/default/files/20261028_-_rapport_dactivites_-_3e_trimestre_2026_-_uniwax_ci.pdf"
+ },
+ {
   "ticker": "BNBC",
   "title": "Attestation des commissaires aux comptes sur le rapport dactivites — 1er semestre 2026",
   "type": "Résultats",
@@ -4018,13 +4053,6 @@
   "url": "https://www.brvm.org/sites/default/files/20240222_-_resultats_consolides_-_exercice_2023_-_sonatel_sn_0.pdf"
  },
  {
-  "ticker": "ORAC",
-  "title": "Resultats financiers consolides 2023",
-  "type": "Résultats",
-  "date": "2024-02-21",
-  "url": "https://www.brvm.org/sites/default/files/20240221_-_resultats_financiers_consolides_2023_-_orange_ci.pdf"
- },
- {
   "ticker": "SGBC",
   "title": "Rapport dactivites annuel — exercice 2023",
   "type": "Résultats",
@@ -5418,13 +5446,6 @@
   "url": "https://www.brvm.org/sites/default/files/20221027_-_rapport_dactivite_-_3eme_trimestre_2022_-_boa_mali.pdf"
  },
  {
-  "ticker": "UNXC",
-  "title": "Rapport dactivite — 1er semestre 2022",
-  "type": "Communiqué",
-  "date": "2022-10-27",
-  "url": "https://www.brvm.org/sites/default/files/20221027_-_rapport_dactivite_-_1er_semestre_2022_-_uniwax_ci.pdf"
- },
- {
   "ticker": "ORGT",
   "title": "Rapport dactivite — 3eme trimestre 2022",
   "type": "Communiqué",
@@ -5843,13 +5864,6 @@
   "type": "États financiers",
   "date": "2022-04-01",
   "url": "https://www.brvm.org/sites/default/files/20220401_-_etats_financiers_exercice_2021_-_nsia_banque_ci.pdf"
- },
- {
-  "ticker": "ETIT",
-  "title": "Etats financiers audites exercice 2021",
-  "type": "États financiers",
-  "date": "2022-03-30",
-  "url": "https://www.brvm.org/sites/default/files/20220330_-_etats_financiers_audites_exercice_2021_-_etit.pdf"
  },
  {
   "ticker": "BOAB",
