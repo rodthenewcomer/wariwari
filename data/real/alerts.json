@@ -1,5 +1,71 @@
 [
  {
+  "id": "prix-BNBC-2026-10-29-65ba8121ed",
+  "type": "prix",
+  "ticker": "BNBC",
+  "title": "BNBC : +7,3 % sur la séance",
+  "detail": "BERNABE CI clôture à 1 985 FCFA le 2026-10-29  contre 1 850 FCFA la séance précédente (2 832 titres échangés).",
+  "time": "2026-10-29T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-CIEC-2026-10-29-115ae96131",
+  "type": "prix",
+  "ticker": "CIEC",
+  "title": "CIEC : +5,88 % sur la séance",
+  "detail": "CIE CI clôture à 5 400 FCFA le 2026-10-29  contre 5 100 FCFA la séance précédente (2 216 titres échangés).",
+  "time": "2026-10-29T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "volume-SDSC-2026-10-29-4c49f38081",
+  "type": "volume",
+  "ticker": "SDSC",
+  "title": "Volume inhabituel sur SDSC",
+  "detail": "40 305 titres AFRICA GLOBAL LOGISTICS CI échangés le 2026-10-29  soit 3.1× la moyenne des 30 séances précédentes.",
+  "time": "2026-10-29T15:30:00+00:00",
+  "severity": "info",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "volume-SIVC-2026-10-29-030803ae86",
+  "type": "volume",
+  "ticker": "SIVC",
+  "title": "Volume inhabituel sur SIVC",
+  "detail": "15 263 titres ERIUM CI (Ex AIR LIQUIDE CI) échangés le 2026-10-29  soit 5.0× la moyenne des 30 séances précédentes.",
+  "time": "2026-10-29T15:30:00+00:00",
+  "severity": "info",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-SNTS-2026-10-29-a380c1d1b8",
+  "type": "prix",
+  "ticker": "SNTS",
+  "title": "SNTS au plus bas 52 semaines",
+  "detail": "SONATEL SN clôture à 4 150 FCFA le 2026-10-29 — sous son plus bas des 52 dernières semaines (4 200 FCFA).",
+  "time": "2026-10-29T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-UNXC-2026-10-29-f0cb428634",
+  "type": "prix",
+  "ticker": "UNXC",
+  "title": "UNXC : +5 % sur la séance",
+  "detail": "UNIWAX CI clôture à 2 100 FCFA le 2026-10-29  contre 2 000 FCFA la séance précédente (20 498 titres échangés).",
+  "time": "2026-10-29T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
   "id": "prix-BNBC-2026-10-28-4011408080",
   "type": "prix",
   "ticker": "BNBC",
@@ -60,17 +126,6 @@
   "ticker": "SNTS",
   "title": "SNTS : -5,08 % sur la séance",
   "detail": "SONATEL SN clôture à 4 200 FCFA le 2026-10-28  contre 4 425 FCFA la séance précédente (3 123 435 titres échangés).",
-  "time": "2026-10-28T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SNTS-2026-10-28-a380c1d1b8",
-  "type": "prix",
-  "ticker": "SNTS",
-  "title": "SNTS au plus bas 52 semaines",
-  "detail": "SONATEL SN clôture à 4 200 FCFA le 2026-10-28 — sous son plus bas des 52 dernières semaines (4 425 FCFA).",
   "time": "2026-10-28T15:30:00+00:00",
   "severity": "warning",
   "active": true,
@@ -523,28 +578,6 @@
   "basis": "réel"
  },
  {
-  "id": "prix-SCRC-2026-10-22-7623b0e6c6",
-  "type": "prix",
-  "ticker": "SCRC",
-  "title": "SCRC : +6,98 % sur la séance",
-  "detail": "SUCRIVOIRE clôture à 2 300 FCFA le 2026-10-22  contre 2 150 FCFA la séance précédente (5 642 titres échangés).",
-  "time": "2026-10-22T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SIVC-2026-10-22-361c6b36e8",
-  "type": "prix",
-  "ticker": "SIVC",
-  "title": "SIVC : +5,59 % sur la séance",
-  "detail": "ERIUM CI (Ex AIR LIQUIDE CI) clôture à 1 700 FCFA le 2026-10-22  contre 1 610 FCFA la séance précédente (4 186 titres échangés).",
-  "time": "2026-10-22T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
- },
- {
   "id": "document-NTLC-2026-10-22-b5e2a93a24",
   "type": "document",
   "ticker": "NTLC",
@@ -575,7 +608,7 @@
   "title": "BOAS : nouvelle publication financière",
   "detail": "BANK OF AFRICA SENEGAL a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-21. Source officielle à consulter avant toute décision.",
   "time": "2026-10-21T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261021_-_rapport_dactivites_-_3e_trimestre_2026_-_boa_sn.pdf"
@@ -747,29 +780,5 @@
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261001_-_rapport_dactivites_et_attestation_des_commissaires_aux_comptes_-_1er_semestre_2026_-_onatel_bf.pdf"
- },
- {
-  "id": "document-SIBC-2026-09-28-df9f74c844",
-  "type": "document",
-  "ticker": "SIBC",
-  "title": "SIBC : nouvelle publication financière",
-  "detail": "SOCIETE IVOIRIENNE DE BANQUE a publié « Attestation des commissaires aux comptes — 1er semestre 2026 » le 2026-09-28. Source officielle à consulter avant toute décision.",
-  "time": "2026-09-28T09:05:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel",
-  "sourceUrl": "https://www.brvm.org/sites/default/files/20260928_-_attestation_des_commissaires_aux_comptes_-_1er_semestre_2026_-_sib_ci.pdf"
- },
- {
-  "id": "document-SIBC-2026-09-28-639576f65f",
-  "type": "document",
-  "ticker": "SIBC",
-  "title": "SIBC : nouvelle publication financière",
-  "detail": "SOCIETE IVOIRIENNE DE BANQUE a publié « Rapport dactivites — 1er semestre 2026 » le 2026-09-28. Source officielle à consulter avant toute décision.",
-  "time": "2026-09-28T09:05:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel",
-  "sourceUrl": "https://www.brvm.org/sites/default/files/20260928_-_rapport_dactivites_-_1er_semestre_2026_-_sib_ci.pdf"
  }
 ]
