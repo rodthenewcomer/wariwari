@@ -1,5 +1,40 @@
 [
  {
+  "ticker": "CBIBF",
+  "title": "Rapport dactivites — 3e trimestre 2026",
+  "type": "Résultats",
+  "date": "2026-10-29",
+  "url": "https://www.brvm.org/sites/default/files/20261029_-_rapport_dactivites_-_3e_trimestre_2026_-_coris_bank_international_bf.pdf"
+ },
+ {
+  "ticker": "CIEC",
+  "title": "Attestation des commissaires aux comptes sur le rapport dactivites — 1er semestre 2026",
+  "type": "Résultats",
+  "date": "2026-10-29",
+  "url": "https://www.brvm.org/sites/default/files/20261029_-_attestation_des_commissaires_aux_comptes_sur_le_rapport_dactivites_-_1er_semestre_2026_-_cie_ci.pdf"
+ },
+ {
+  "ticker": "CIEC",
+  "title": "Rapport dactivites — 1er semestre 2026",
+  "type": "Résultats",
+  "date": "2026-10-29",
+  "url": "https://www.brvm.org/sites/default/files/20261029_-_rapport_dactivites_-_1er_semestre_2026_-_cie_ci.pdf"
+ },
+ {
+  "ticker": "PRSC",
+  "title": "Etats financiers — 1er semestre 2026",
+  "type": "États financiers",
+  "date": "2026-10-29",
+  "url": "https://www.brvm.org/sites/default/files/20261029_-_etats_financiers_-_1er_semestre_2026_-_tractafric_motors_ci.pdf"
+ },
+ {
+  "ticker": "PRSC",
+  "title": "Rapport dactivites — 1er semestre 2026",
+  "type": "Résultats",
+  "date": "2026-10-29",
+  "url": "https://www.brvm.org/sites/default/files/20261029_-_rapport_dactivites_-_1er_semestre_2026_-_tractafric_motors_ci.pdf"
+ },
+ {
   "ticker": "SNTS",
   "title": "Rapport dactivites — 3e trimestre 2026",
   "type": "Résultats",
@@ -4795,13 +4830,6 @@
   "url": "https://www.brvm.org/sites/default/files/20230630_-_etats_financiers_certifies_et_approuves_exercice_2022_-_totalenergies_marketing_ci.pdf"
  },
  {
-  "ticker": "PRSC",
-  "title": "Tractafric motors ci",
-  "type": "Résultats",
-  "date": "2023-06-15",
-  "url": "https://www.brvm.org/sites/default/files/20230615_-_tractafric_motors_ci_-_rapport_dactivites_t1_2023.pdf"
- },
- {
   "ticker": "SCRC",
   "title": "Etats financiers ifrs exercice 2022",
   "type": "États financiers",
@@ -4835,13 +4863,6 @@
   "type": "États financiers",
   "date": "2023-06-09",
   "url": "https://www.brvm.org/sites/default/files/20230609_-_etats_financiers_exercice_2022_-_africa_global_logistics_ci_ex_bollore.pdf"
- },
- {
-  "ticker": "PRSC",
-  "title": "Etats financiers exercice 2022",
-  "type": "États financiers",
-  "date": "2023-06-08",
-  "url": "https://www.brvm.org/sites/default/files/20230608_-_etats_financiers_exercice_2022_-_tractafric_motors_ci.pdf"
  },
  {
   "ticker": "SIBC",
@@ -5745,13 +5766,6 @@
   "type": "États financiers",
   "date": "2022-04-29",
   "url": "https://www.brvm.org/sites/default/files/20220429_-_etats_financiers_ifrs_exercice_2021_-_cie.pdf"
- },
- {
-  "ticker": "CIEC",
-  "title": "Etats financiers syscohada exercice 2021",
-  "type": "États financiers",
-  "date": "2022-04-29",
-  "url": "https://www.brvm.org/sites/default/files/20220429_-_etats_financiers_syscohada_exercice_2021_-_cie.pdf"
  },
  {
   "ticker": "NEIC",

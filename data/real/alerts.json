@@ -66,6 +66,66 @@
   "basis": "réel"
  },
  {
+  "id": "document-CBIBF-2026-10-29-43eb979f17",
+  "type": "document",
+  "ticker": "CBIBF",
+  "title": "CBIBF : nouvelle publication financière",
+  "detail": "CORIS BANK INTERNATIONAL a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-29. Source officielle à consulter avant toute décision.",
+  "time": "2026-10-29T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261029_-_rapport_dactivites_-_3e_trimestre_2026_-_coris_bank_international_bf.pdf"
+ },
+ {
+  "id": "document-CIEC-2026-10-29-b59281b8c8",
+  "type": "document",
+  "ticker": "CIEC",
+  "title": "CIEC : nouvelle publication financière",
+  "detail": "CIE CI a publié « Attestation des commissaires aux comptes sur le rapport dactivites — 1er semestre 2026 » le 2026-10-29. S1 2026 : CA 138,2 Md FCFA (-2,31 % vs S1 2025) ; résultat net 5,1 Md FCFA (-4,53 %). Extraction automatique recoupée, confiance élevée. Source officielle à consulter avant toute décision.",
+  "time": "2026-10-29T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261029_-_attestation_des_commissaires_aux_comptes_sur_le_rapport_dactivites_-_1er_semestre_2026_-_cie_ci.pdf"
+ },
+ {
+  "id": "document-CIEC-2026-10-29-2bbecefe25",
+  "type": "document",
+  "ticker": "CIEC",
+  "title": "CIEC : nouvelle publication financière",
+  "detail": "CIE CI a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-29. Source officielle à consulter avant toute décision.",
+  "time": "2026-10-29T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261029_-_rapport_dactivites_-_1er_semestre_2026_-_cie_ci.pdf"
+ },
+ {
+  "id": "document-PRSC-2026-10-29-8b6d19535f",
+  "type": "document",
+  "ticker": "PRSC",
+  "title": "PRSC : nouvelle publication financière",
+  "detail": "TRACTAFRIC MOTORS CI a publié « Etats financiers — 1er semestre 2026 » le 2026-10-29. S1 2026 : CA 41,7 Md FCFA (+4,37 % vs S1 2025) ; résultat net 1,3 Md FCFA (-11,84 %). Extraction automatique recoupée, confiance élevée. Source officielle à consulter avant toute décision.",
+  "time": "2026-10-29T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261029_-_etats_financiers_-_1er_semestre_2026_-_tractafric_motors_ci.pdf"
+ },
+ {
+  "id": "document-PRSC-2026-10-29-54064940c1",
+  "type": "document",
+  "ticker": "PRSC",
+  "title": "PRSC : nouvelle publication financière",
+  "detail": "TRACTAFRIC MOTORS CI a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-29. Source officielle à consulter avant toute décision.",
+  "time": "2026-10-29T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261029_-_rapport_dactivites_-_1er_semestre_2026_-_tractafric_motors_ci.pdf"
+ },
+ {
   "id": "document-SNTS-2026-10-29-922ea35fad",
   "type": "document",
   "ticker": "SNTS",

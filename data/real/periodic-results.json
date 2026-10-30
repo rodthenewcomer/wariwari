@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T16:58:32.202941+00:00",
+  "generatedAt": "2026-10-30T21:27:42.730870+00:00",
   "results": {
     "ABJC": {
       "ticker": "ABJC",
@@ -244,6 +244,29 @@
       "sourceType": "publication officielle BRVM",
       "unit": "millions FCFA"
     },
+    "CIEC": {
+      "ticker": "CIEC",
+      "fiscalYear": 2026,
+      "periodType": "semiannual",
+      "periodCode": "S1",
+      "periodLabel": "S1 2026",
+      "comparisonLabel": "S1 2025",
+      "asOfDate": "2026-06-30",
+      "revenueLabel": "CA",
+      "revenueM": 138243,
+      "revenuePrevM": 141513,
+      "netIncomeM": 5096,
+      "netIncomePrevM": 5338,
+      "ordinaryIncomeM": null,
+      "ordinaryIncomePrevM": null,
+      "source": "https://www.brvm.org/sites/default/files/20261029_-_attestation_des_commissaires_aux_comptes_sur_le_rapport_dactivites_-_1er_semestre_2026_-_cie_ci.pdf",
+      "publishedOn": "2026-10-29",
+      "status": "integrated",
+      "confidence": "high",
+      "sourceType": "publication officielle BRVM",
+      "unit": "millions FCFA",
+      "exceptionalItem": "Élément exceptionnel non récurrent : résultat net soutenu par une cession d'actif, selon la publication officielle."
+    },
     "ECOC": {
       "ticker": "ECOC",
       "fiscalYear": 2026,
@@ -465,6 +488,29 @@
       "confidence": "low",
       "sourceType": "publication officielle BRVM",
       "detail": "Publication détectée; chiffres non publiés faute de recoupement automatique suffisant."
+    },
+    "PRSC": {
+      "ticker": "PRSC",
+      "fiscalYear": 2026,
+      "periodType": "semiannual",
+      "periodCode": "S1",
+      "periodLabel": "S1 2026",
+      "comparisonLabel": "S1 2025",
+      "asOfDate": "2026-06-30",
+      "revenueLabel": "CA",
+      "revenueM": 41714,
+      "revenuePrevM": 39968,
+      "netIncomeM": 1266,
+      "netIncomePrevM": 1436,
+      "ordinaryIncomeM": 1967,
+      "ordinaryIncomePrevM": 2024,
+      "source": "https://www.brvm.org/sites/default/files/20261029_-_etats_financiers_-_1er_semestre_2026_-_tractafric_motors_ci.pdf",
+      "publishedOn": "2026-10-29",
+      "status": "integrated",
+      "confidence": "high",
+      "sourceType": "publication officielle BRVM",
+      "unit": "millions FCFA",
+      "exceptionalItem": "Élément exceptionnel non récurrent : résultat net soutenu par une cession d'actif, selon la publication officielle."
     },
     "SAFC": {
       "ticker": "SAFC",
