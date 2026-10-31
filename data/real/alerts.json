@@ -1,5 +1,27 @@
 [
  {
+  "id": "volume-ABJC-2026-10-30-d4d056ed80",
+  "type": "volume",
+  "ticker": "ABJC",
+  "title": "Volume inhabituel sur ABJC",
+  "detail": "6 217 titres SERVAIR ABIDJAN CI échangés le 2026-10-30  soit 3.2× la moyenne des 30 séances précédentes.",
+  "time": "2026-10-30T15:30:00+00:00",
+  "severity": "info",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-UNLC-2026-10-30-a2c9431cf6",
+  "type": "prix",
+  "ticker": "UNLC",
+  "title": "UNLC : +6,52 % sur la séance",
+  "detail": "UNILEVER CI clôture à 49 000 FCFA le 2026-10-30  contre 46 000 FCFA la séance précédente (25 titres échangés).",
+  "time": "2026-10-30T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
   "id": "prix-BNBC-2026-10-29-65ba8121ed",
   "type": "prix",
   "ticker": "BNBC",
@@ -593,28 +615,6 @@
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261026_-_rapport_dactivites_-_3e_trimestre_2026_-_boa_ng.pdf"
  },
  {
-  "id": "prix-SDCC-2026-10-23-1f476e11f7",
-  "type": "prix",
-  "ticker": "SDCC",
-  "title": "SDCC : +6,03 % sur la séance",
-  "detail": "SODE CI clôture à 12 300 FCFA le 2026-10-23  contre 11 600 FCFA la séance précédente (650 titres échangés).",
-  "time": "2026-10-23T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-UNLC-2026-10-23-21e7d5a396",
-  "type": "prix",
-  "ticker": "UNLC",
-  "title": "UNLC : +7,47 % sur la séance",
-  "detail": "UNILEVER CI clôture à 48 360 FCFA le 2026-10-23  contre 45 000 FCFA la séance précédente (32 titres échangés).",
-  "time": "2026-10-23T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
- },
- {
   "id": "document-NSBC-2026-10-23-7b7bd86b08",
   "type": "document",
   "ticker": "NSBC",
@@ -639,24 +639,13 @@
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261023_-_rapport_dactivites_-_3e_trimestre_2026_-_onatel_bf.pdf"
  },
  {
-  "id": "dividende-PRSC-2026-10-23-64733a0e87",
-  "type": "dividende",
-  "ticker": "PRSC",
-  "title": "Dividende PRSC : 184 FCFA net par action",
-  "detail": "TRACTAFRIC MOTORS CI a payé un dividende net de 184 FCFA par action le 2026-10-23 (source : bulletin officiel).",
-  "time": "2026-10-23T09:00:00+00:00",
-  "severity": "info",
-  "active": true,
-  "basis": "réel"
- },
- {
   "id": "document-NTLC-2026-10-22-b5e2a93a24",
   "type": "document",
   "ticker": "NTLC",
   "title": "NTLC : nouvelle publication financière",
   "detail": "NESTLE CI a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-22. S1 2026 : CA 131,7 Md FCFA (+13,08 % vs S1 2025) ; résultat net 10,1 Md FCFA (+7,17 %). Extraction automatique recoupée, confiance élevée. Source officielle à consulter avant toute décision.",
   "time": "2026-10-22T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261022_-_rapport_dactivites_-_1er_semestre_2026_-_nestle_ci.pdf"
@@ -668,7 +657,7 @@
   "title": "NTLC : nouvelle publication financière",
   "detail": "NESTLE CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-22. Source officielle à consulter avant toute décision.",
   "time": "2026-10-22T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261022_-_rapport_dactivites_-_3e_trimestre_2026_-_nestle_ci.pdf"
