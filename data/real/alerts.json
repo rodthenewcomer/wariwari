@@ -1,5 +1,89 @@
 [
  {
+  "id": "document-BOAB-2026-11-02-590242ecee",
+  "type": "document",
+  "ticker": "BOAB",
+  "title": "BOAB : nouvelle publication financière",
+  "detail": "BANK OF AFRICA BN a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-11-02. Source officielle à consulter avant toute décision.",
+  "time": "2026-11-02T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261102_-_rapport_dactivites_-_3e_trimestre_2026_-_boa_bn.pdf"
+ },
+ {
+  "id": "document-BOAC-2026-11-02-b6cc96ad06",
+  "type": "document",
+  "ticker": "BOAC",
+  "title": "BOAC : nouvelle publication financière",
+  "detail": "BANK OF AFRICA CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-11-02. Source officielle à consulter avant toute décision.",
+  "time": "2026-11-02T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261102_-_rapport_dactivites_-_3e_trimestre_2026_-_boa_ci.pdf"
+ },
+ {
+  "id": "document-FTSC-2026-11-02-63c42112c1",
+  "type": "document",
+  "ticker": "FTSC",
+  "title": "FTSC : nouvelle publication financière",
+  "detail": "FILTISAC CI a publié « Rapport dactivites — 1er semestre 2026 » le 2026-11-02. S1 2026 : CA 20,8 Md FCFA (+14,94 % vs S1 2025) ; résultat net 770 M FCFA (+633,33 %). Extraction automatique recoupée, confiance moyenne. Source officielle à consulter avant toute décision.",
+  "time": "2026-11-02T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261102_-_rapport_dactivites_-_1er_semestre_2026_-_filtisac_ci.pdf"
+ },
+ {
+  "id": "document-FTSC-2026-11-02-b3af67a0d7",
+  "type": "document",
+  "ticker": "FTSC",
+  "title": "FTSC : nouvelle publication financière",
+  "detail": "FILTISAC CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-11-02. Source officielle à consulter avant toute décision.",
+  "time": "2026-11-02T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261102_-_rapport_dactivites_-_3e_trimestre_2026_-_filtisac_ci.pdf"
+ },
+ {
+  "id": "document-SAFC-2026-11-02-2a48303cfa",
+  "type": "document",
+  "ticker": "SAFC",
+  "title": "SAFC : nouvelle publication financière",
+  "detail": "SAFCA CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-11-02. Source officielle à consulter avant toute décision.",
+  "time": "2026-11-02T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261102_-_rapport_dactivites_-_3e_trimestre_2026_-_safca_ci.pdf"
+ },
+ {
+  "id": "document-SCRC-2026-11-02-53836c607b",
+  "type": "document",
+  "ticker": "SCRC",
+  "title": "SCRC : nouvelle publication financière",
+  "detail": "SUCRIVOIRE a publié « Rapport dactivites — 1er semestre 2026 » le 2026-11-02. S1 2026 : CA 42,3 Md FCFA (-1,43 % vs S1 2025) ; résultat net 4,8 Md FCFA (-28,61 %). Extraction automatique recoupée, confiance élevée. Source officielle à consulter avant toute décision.",
+  "time": "2026-11-02T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261102_-_rapport_dactivites_-_1er_semestre_2026_-_sucrivoire_ci.pdf"
+ },
+ {
+  "id": "document-SIBC-2026-11-02-279ab90163",
+  "type": "document",
+  "ticker": "SIBC",
+  "title": "SIBC : nouvelle publication financière",
+  "detail": "SOCIETE IVOIRIENNE DE BANQUE a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-11-02. Source officielle à consulter avant toute décision.",
+  "time": "2026-11-02T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261102_-_rapport_dactivites_-_3e_trimestre_2026_-_sib_ci.pdf"
+ },
+ {
   "id": "volume-ABJC-2026-10-30-d4d056ed80",
   "type": "volume",
   "ticker": "ABJC",
@@ -909,7 +993,7 @@
   "title": "NSBC : nouvelle publication financière",
   "detail": "NSIA BANQUE COTE D'IVOIRE a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-23. S1 2026 : PNB 53,8 Md FCFA (+6,46 % vs S1 2025) ; résultat net 14,5 Md FCFA (-11,04 %). Extraction automatique recoupée, confiance élevée. Source officielle à consulter avant toute décision.",
   "time": "2026-10-23T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261023_-_rapport_dactivites_-_1er_semestre_2026_-_nsia_banque_ci.pdf"
@@ -921,7 +1005,7 @@
   "title": "ONTBF : nouvelle publication financière",
   "detail": "ONATEL BF a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-23. Source officielle à consulter avant toute décision.",
   "time": "2026-10-23T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261023_-_rapport_dactivites_-_3e_trimestre_2026_-_onatel_bf.pdf"
@@ -1093,41 +1177,5 @@
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261005_-_attestation_des_commissaires_aux_comptes_-_etats_financiers_-_exercice_2025_-_africa_glogal_logistics_ci.pdf"
- },
- {
-  "id": "document-BOAC-2026-10-01-09469a50f6",
-  "type": "document",
-  "ticker": "BOAC",
-  "title": "BOAC : nouvelle publication financière",
-  "detail": "BANK OF AFRICA CI a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-01. S1 2026 : PNB 36,7 Md FCFA (+1,51 % vs S1 2025) ; résultat net 19,8 Md FCFA (+8 %). Extraction automatique recoupée, confiance élevée. Source officielle à consulter avant toute décision.",
-  "time": "2026-10-01T09:05:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel",
-  "sourceUrl": "https://www.brvm.org/sites/default/files/20261001_-_rapport_dactivites_-_1er_semestre_2026_-_boa_ci.pdf"
- },
- {
-  "id": "document-BOAC-2026-10-01-668e3dcc6a",
-  "type": "document",
-  "ticker": "BOAC",
-  "title": "BOAC : nouvelle publication financière",
-  "detail": "BANK OF AFRICA CI a publié « Rapport dexamen limite des etats financiers — 1er semestre 2026 » le 2026-10-01. Source officielle à consulter avant toute décision.",
-  "time": "2026-10-01T09:05:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel",
-  "sourceUrl": "https://www.brvm.org/sites/default/files/20261001_-_rapport_dexamen_limite_des_etats_financiers_-_1er_semestre_2026_-_boa_ci.pdf"
- },
- {
-  "id": "document-ONTBF-2026-10-01-b0f5bdd0e2",
-  "type": "document",
-  "ticker": "ONTBF",
-  "title": "ONTBF : nouvelle publication financière",
-  "detail": "ONATEL BF a publié « Rapport dactivites et attestation des commissaires aux comptes — 1er semestre 2026 » le 2026-10-01. S1 2026 : CA 75,9 Md FCFA (+2,9 % vs S1 2025) ; résultat net 7,3 Md FCFA (-8,58 %). Extraction automatique recoupée, confiance élevée. Source officielle à consulter avant toute décision.",
-  "time": "2026-10-01T09:05:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel",
-  "sourceUrl": "https://www.brvm.org/sites/default/files/20261001_-_rapport_dactivites_et_attestation_des_commissaires_aux_comptes_-_1er_semestre_2026_-_onatel_bf.pdf"
  }
 ]
