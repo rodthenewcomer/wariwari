@@ -1,5 +1,93 @@
 [
  {
+  "id": "prix-CABC-2026-11-03-19619d0961",
+  "type": "prix",
+  "ticker": "CABC",
+  "title": "CABC : -7,39 % sur la séance",
+  "detail": "SICABLE CI clôture à 2 505 FCFA le 2026-11-03  contre 2 705 FCFA la séance précédente (1 802 titres échangés).",
+  "time": "2026-11-03T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-FTSC-2026-11-03-334b579d0c",
+  "type": "prix",
+  "ticker": "FTSC",
+  "title": "FTSC : -7,27 % sur la séance",
+  "detail": "FILTISAC CI clôture à 1 595 FCFA le 2026-11-03  contre 1 720 FCFA la séance précédente (5 802 titres échangés).",
+  "time": "2026-11-03T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-FTSC-2026-11-03-8a81d3e66a",
+  "type": "prix",
+  "ticker": "FTSC",
+  "title": "FTSC au plus bas 52 semaines",
+  "detail": "FILTISAC CI clôture à 1 595 FCFA le 2026-11-03 — sous son plus bas des 52 dernières semaines (1 720 FCFA).",
+  "time": "2026-11-03T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-SAFC-2026-11-03-1fd45065d5",
+  "type": "prix",
+  "ticker": "SAFC",
+  "title": "SAFC : +6,62 % sur la séance",
+  "detail": "SAFCA CI clôture à 3 945 FCFA le 2026-11-03  contre 3 700 FCFA la séance précédente (18 522 titres échangés).",
+  "time": "2026-11-03T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "volume-SAFC-2026-11-03-7bc31cf9ea",
+  "type": "volume",
+  "ticker": "SAFC",
+  "title": "Volume inhabituel sur SAFC",
+  "detail": "18 522 titres SAFCA CI échangés le 2026-11-03  soit 4.3× la moyenne des 30 séances précédentes.",
+  "time": "2026-11-03T15:30:00+00:00",
+  "severity": "info",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-SCRC-2026-11-03-1149df8d30",
+  "type": "prix",
+  "ticker": "SCRC",
+  "title": "SCRC : -7,5 % sur la séance",
+  "detail": "SUCRIVOIRE clôture à 2 035 FCFA le 2026-11-03  contre 2 200 FCFA la séance précédente (4 350 titres échangés).",
+  "time": "2026-11-03T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-SMBC-2026-11-03-19976bc8c2",
+  "type": "prix",
+  "ticker": "SMBC",
+  "title": "SMBC : +7,49 % sur la séance",
+  "detail": "SMB CI clôture à 16 870 FCFA le 2026-11-03  contre 15 695 FCFA la séance précédente (1 679 titres échangés).",
+  "time": "2026-11-03T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-STAC-2026-11-03-81a767f6fd",
+  "type": "prix",
+  "ticker": "STAC",
+  "title": "STAC : +7,34 % sur la séance",
+  "detail": "SETAO CI clôture à 1 900 FCFA le 2026-11-03  contre 1 770 FCFA la séance précédente (6 724 titres échangés).",
+  "time": "2026-11-03T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
   "id": "volume-ABJC-2026-11-02-d4d056ed80",
   "type": "volume",
   "ticker": "ABJC",
@@ -38,17 +126,6 @@
   "ticker": "CFAC",
   "title": "CFAC : -7,14 % sur la séance",
   "detail": "CFAO MOTORS CI clôture à 1 300 FCFA le 2026-11-02  contre 1 400 FCFA la séance précédente (6 787 titres échangés).",
-  "time": "2026-11-02T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-FTSC-2026-11-02-8a81d3e66a",
-  "type": "prix",
-  "ticker": "FTSC",
-  "title": "FTSC au plus bas 52 semaines",
-  "detail": "FILTISAC CI clôture à 1 720 FCFA le 2026-11-02 — sous son plus bas des 52 dernières semaines (1 725 FCFA).",
   "time": "2026-11-02T15:30:00+00:00",
   "severity": "warning",
   "active": true,
@@ -779,105 +856,6 @@
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261028_-_rapport_dactivites_-_3e_trimestre_2026_-_uniwax_ci.pdf"
  },
  {
-  "id": "prix-BOABF-2026-10-27-f62e240724",
-  "type": "prix",
-  "ticker": "BOABF",
-  "title": "BOABF : +5,74 % sur la séance",
-  "detail": "BANK OF AFRICA BF clôture à 8 100 FCFA le 2026-10-27  contre 7 660 FCFA la séance précédente (13 682 titres échangés).",
-  "time": "2026-10-27T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "volume-BOAN-2026-10-27-e7ba1207b0",
-  "type": "volume",
-  "ticker": "BOAN",
-  "title": "Volume inhabituel sur BOAN",
-  "detail": "31 224 titres BANK OF AFRICA NG échangés le 2026-10-27  soit 3.7× la moyenne des 30 séances précédentes.",
-  "time": "2026-10-27T15:30:00+00:00",
-  "severity": "info",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-CIEC-2026-10-27-a48e553e6e",
-  "type": "prix",
-  "ticker": "CIEC",
-  "title": "CIEC : +7,47 % sur la séance",
-  "detail": "CIE CI clôture à 5 250 FCFA le 2026-10-27  contre 4 885 FCFA la séance précédente (9 245 titres échangés).",
-  "time": "2026-10-27T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SCRC-2026-10-27-1149df8d30",
-  "type": "prix",
-  "ticker": "SCRC",
-  "title": "SCRC : -7,5 % sur la séance",
-  "detail": "SUCRIVOIRE clôture à 2 220 FCFA le 2026-10-27  contre 2 400 FCFA la séance précédente (9 224 titres échangés).",
-  "time": "2026-10-27T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SDCC-2026-10-27-82c882eb41",
-  "type": "prix",
-  "ticker": "SDCC",
-  "title": "SDCC : +7,5 % sur la séance",
-  "detail": "SODE CI clôture à 12 690 FCFA le 2026-10-27  contre 11 805 FCFA la séance précédente (412 titres échangés).",
-  "time": "2026-10-27T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SDSC-2026-10-27-ab1503ff1e",
-  "type": "prix",
-  "ticker": "SDSC",
-  "title": "SDSC : -6,33 % sur la séance",
-  "detail": "AFRICA GLOBAL LOGISTICS CI clôture à 2 810 FCFA le 2026-10-27  contre 3 000 FCFA la séance précédente (12 873 titres échangés).",
-  "time": "2026-10-27T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SNTS-2026-10-27-91484f4be1",
-  "type": "prix",
-  "ticker": "SNTS",
-  "title": "SNTS : -5,85 % sur la séance",
-  "detail": "SONATEL SN clôture à 4 425 FCFA le 2026-10-27  contre 4 700 FCFA la séance précédente (309 660 titres échangés).",
-  "time": "2026-10-27T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "volume-SNTS-2026-10-27-d7beb0e4a2",
-  "type": "volume",
-  "ticker": "SNTS",
-  "title": "Volume inhabituel sur SNTS",
-  "detail": "309 660 titres SONATEL SN échangés le 2026-10-27  soit 7.7× la moyenne des 30 séances précédentes.",
-  "time": "2026-10-27T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-STAC-2026-10-27-77b82a75fc",
-  "type": "prix",
-  "ticker": "STAC",
-  "title": "STAC : -5,03 % sur la séance",
-  "detail": "SETAO CI clôture à 1 795 FCFA le 2026-10-27  contre 1 890 FCFA la séance précédente (4 032 titres échangés).",
-  "time": "2026-10-27T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
   "id": "document-BNBC-2026-10-27-a5db124efa",
   "type": "document",
   "ticker": "BNBC",
@@ -974,24 +952,13 @@
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261027_-_rapport_dactivites_-_3e_trimestre_2026_-_totalenergies_marketing_ci.pdf"
  },
  {
-  "id": "dividende-SDSC-2026-10-27-d1a3b55ce1",
-  "type": "dividende",
-  "ticker": "SDSC",
-  "title": "Dividende SDSC : 92 FCFA net par action",
-  "detail": "AFRICA GLOBAL LOGISTICS CI a payé un dividende net de 92 FCFA par action le 2026-10-27 (source : bulletin officiel).",
-  "time": "2026-10-27T09:00:00+00:00",
-  "severity": "info",
-  "active": true,
-  "basis": "réel"
- },
- {
   "id": "document-BOABF-2026-10-26-c7889e08f3",
   "type": "document",
   "ticker": "BOABF",
   "title": "BOABF : nouvelle publication financière",
   "detail": "BANK OF AFRICA BF a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-26. Source officielle à consulter avant toute décision.",
   "time": "2026-10-26T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261026_-_rapport_dactivites_-_3e_trimestre_2026_-_boa_bf.pdf"
@@ -1003,7 +970,7 @@
   "title": "BOAN : nouvelle publication financière",
   "detail": "BANK OF AFRICA NG a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-26. Source officielle à consulter avant toute décision.",
   "time": "2026-10-26T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261026_-_rapport_dactivites_-_3e_trimestre_2026_-_boa_ng.pdf"
