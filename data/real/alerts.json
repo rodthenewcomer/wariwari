@@ -1,5 +1,60 @@
 [
  {
+  "id": "volume-CABC-2026-11-04-d1246a994b",
+  "type": "volume",
+  "ticker": "CABC",
+  "title": "Volume inhabituel sur CABC",
+  "detail": "3 576 titres SICABLE CI échangés le 2026-11-04  soit 3.4× la moyenne des 30 séances précédentes.",
+  "time": "2026-11-04T15:30:00+00:00",
+  "severity": "info",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-NEIC-2026-11-04-99174aba05",
+  "type": "prix",
+  "ticker": "NEIC",
+  "title": "NEIC : -7,48 % sur la séance",
+  "detail": "NEI-CEDA CI clôture à 1 980 FCFA le 2026-11-04  contre 2 140 FCFA la séance précédente (4 057 titres échangés).",
+  "time": "2026-11-04T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-SCRC-2026-11-04-44643c354c",
+  "type": "prix",
+  "ticker": "SCRC",
+  "title": "SCRC : -7,37 % sur la séance",
+  "detail": "SUCRIVOIRE clôture à 1 885 FCFA le 2026-11-04  contre 2 035 FCFA la séance précédente (4 773 titres échangés).",
+  "time": "2026-11-04T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-SMBC-2026-11-04-89207d1c45",
+  "type": "prix",
+  "ticker": "SMBC",
+  "title": "SMBC : +6,67 % sur la séance",
+  "detail": "SMB CI clôture à 17 995 FCFA le 2026-11-04  contre 16 870 FCFA la séance précédente (2 788 titres échangés).",
+  "time": "2026-11-04T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-STAC-2026-11-04-fbd3cfd70c",
+  "type": "prix",
+  "ticker": "STAC",
+  "title": "STAC : +5,26 % sur la séance",
+  "detail": "SETAO CI clôture à 2 000 FCFA le 2026-11-04  contre 1 900 FCFA la séance précédente (4 491 titres échangés).",
+  "time": "2026-11-04T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
   "id": "prix-CABC-2026-11-03-19619d0961",
   "type": "prix",
   "ticker": "CABC",
@@ -708,94 +763,6 @@
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261029_-_rapport_dactivites_-_3e_trimestre_2026_-_sonatel_sn.pdf"
  },
  {
-  "id": "prix-BNBC-2026-10-28-4011408080",
-  "type": "prix",
-  "ticker": "BNBC",
-  "title": "BNBC : +7,25 % sur la séance",
-  "detail": "BERNABE CI clôture à 1 850 FCFA le 2026-10-28  contre 1 725 FCFA la séance précédente (2 813 titres échangés).",
-  "time": "2026-10-28T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-BOAC-2026-10-28-fcb9842cde",
-  "type": "prix",
-  "ticker": "BOAC",
-  "title": "BOAC : +5,76 % sur la séance",
-  "detail": "BANK OF AFRICA CI clôture à 11 940 FCFA le 2026-10-28  contre 11 290 FCFA la séance précédente (6 198 titres échangés).",
-  "time": "2026-10-28T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "volume-ETIT-2026-10-28-102e9324db",
-  "type": "volume",
-  "ticker": "ETIT",
-  "title": "Volume inhabituel sur ETIT",
-  "detail": "5 109 292 titres ECOBANK TRANS. INCORP. TG échangés le 2026-10-28  soit 4.6× la moyenne des 30 séances précédentes.",
-  "time": "2026-10-28T15:30:00+00:00",
-  "severity": "info",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-NEIC-2026-10-28-971765e844",
-  "type": "prix",
-  "ticker": "NEIC",
-  "title": "NEIC : +6,67 % sur la séance",
-  "detail": "NEI-CEDA CI clôture à 2 240 FCFA le 2026-10-28  contre 2 100 FCFA la séance précédente (457 titres échangés).",
-  "time": "2026-10-28T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SDSC-2026-10-28-cfcf97e23e",
-  "type": "prix",
-  "ticker": "SDSC",
-  "title": "SDSC : +5,34 % sur la séance",
-  "detail": "AFRICA GLOBAL LOGISTICS CI clôture à 2 960 FCFA le 2026-10-28  contre 2 810 FCFA la séance précédente (15 099 titres échangés).",
-  "time": "2026-10-28T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SNTS-2026-10-28-28ef38dc0a",
-  "type": "prix",
-  "ticker": "SNTS",
-  "title": "SNTS : -5,08 % sur la séance",
-  "detail": "SONATEL SN clôture à 4 200 FCFA le 2026-10-28  contre 4 425 FCFA la séance précédente (3 123 435 titres échangés).",
-  "time": "2026-10-28T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "volume-SNTS-2026-10-28-d7beb0e4a2",
-  "type": "volume",
-  "ticker": "SNTS",
-  "title": "Volume inhabituel sur SNTS",
-  "detail": "3 123 435 titres SONATEL SN échangés le 2026-10-28  soit 62.3× la moyenne des 30 séances précédentes.",
-  "time": "2026-10-28T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SOGC-2026-10-28-61c632ef8a",
-  "type": "prix",
-  "ticker": "SOGC",
-  "title": "SOGC : -5 % sur la séance",
-  "detail": "SOGB CI clôture à 7 505 FCFA le 2026-10-28  contre 7 900 FCFA la séance précédente (1 180 titres échangés).",
-  "time": "2026-10-28T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
   "id": "document-BBGC-2026-10-28-f345db3eec",
   "type": "document",
   "ticker": "BBGC",
@@ -862,7 +829,7 @@
   "title": "BNBC : nouvelle publication financière",
   "detail": "BERNABE CI a publié « Attestation des commissaires aux comptes sur le rapport dactivites — 1er semestre 2026 » le 2026-10-27. Source officielle à consulter avant toute décision.",
   "time": "2026-10-27T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261027_-_attestation_des_commissaires_aux_comptes_sur_le_rapport_dactivites_-_1er_semestre_2026_-_bernabe_ci.pdf"
@@ -874,7 +841,7 @@
   "title": "BNBC : nouvelle publication financière",
   "detail": "BERNABE CI a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-27. Source officielle à consulter avant toute décision.",
   "time": "2026-10-27T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261027_-_rapport_dactivites_-_1er_semestre_2026_-_bernabe_ci.pdf"
@@ -886,7 +853,7 @@
   "title": "BNBC : nouvelle publication financière",
   "detail": "BERNABE CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-27. Source officielle à consulter avant toute décision.",
   "time": "2026-10-27T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261027_-_rapport_dactivites_-_3e_trimestre_2026_-_bernabe_ci.pdf"
@@ -898,7 +865,7 @@
   "title": "ECOC : nouvelle publication financière",
   "detail": "ECOBANK COTE D''IVOIRE a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-27. Source officielle à consulter avant toute décision.",
   "time": "2026-10-27T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261027_-_rapport_dactivites_-_3e_trimestre_2026_-_ecobank_ci.pdf"
@@ -910,7 +877,7 @@
   "title": "PALC : nouvelle publication financière",
   "detail": "PALM CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-27. Source officielle à consulter avant toute décision.",
   "time": "2026-10-27T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261027_-_rapport_dactivites_-_3e_trimestre_2026_-_palm_ci.pdf"
@@ -922,7 +889,7 @@
   "title": "TTLC : nouvelle publication financière",
   "detail": "TOTALENERGIES MARKETING CI a publié « Attestation des commissaires aux comptes sur le rapport dactivites — 1er semestre 2026 » le 2026-10-27. Source officielle à consulter avant toute décision.",
   "time": "2026-10-27T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261027_-_attestation_des_commissaires_aux_comptes_sur_le_rapport_dactivites_-_1er_semestre_2026_-_totalenergies_marketing_ci.pdf"
@@ -934,7 +901,7 @@
   "title": "TTLC : nouvelle publication financière",
   "detail": "TOTALENERGIES MARKETING CI a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-27. Source officielle à consulter avant toute décision.",
   "time": "2026-10-27T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261027_-_rapport_dactivites_-_1er_semestre_2026_-_totalenergies_marketing_ci.pdf"
@@ -946,7 +913,7 @@
   "title": "TTLC : nouvelle publication financière",
   "detail": "TOTALENERGIES MARKETING CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-27. Source officielle à consulter avant toute décision.",
   "time": "2026-10-27T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261027_-_rapport_dactivites_-_3e_trimestre_2026_-_totalenergies_marketing_ci.pdf"
