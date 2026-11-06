@@ -1,5 +1,93 @@
 [
  {
+  "id": "prix-CABC-2026-11-05-e561bedb56",
+  "type": "prix",
+  "ticker": "CABC",
+  "title": "CABC : +6,99 % sur la séance",
+  "detail": "SICABLE CI clôture à 2 680 FCFA le 2026-11-05  contre 2 505 FCFA la séance précédente (1 841 titres échangés).",
+  "time": "2026-11-05T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-LNBB-2026-11-05-c50b8e293b",
+  "type": "prix",
+  "ticker": "LNBB",
+  "title": "LNBB : -5,38 % sur la séance",
+  "detail": "LOTERIE NATIONALE DU BENIN clôture à 3 785 FCFA le 2026-11-05  contre 4 000 FCFA la séance précédente (675 titres échangés).",
+  "time": "2026-11-05T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-NEIC-2026-11-05-9f70eb8709",
+  "type": "prix",
+  "ticker": "NEIC",
+  "title": "NEIC : -7,32 % sur la séance",
+  "detail": "NEI-CEDA CI clôture à 1 835 FCFA le 2026-11-05  contre 1 980 FCFA la séance précédente (2 022 titres échangés).",
+  "time": "2026-11-05T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "volume-SCRC-2026-11-05-9836cc8902",
+  "type": "volume",
+  "ticker": "SCRC",
+  "title": "Volume inhabituel sur SCRC",
+  "detail": "42 816 titres SUCRIVOIRE échangés le 2026-11-05  soit 5.2× la moyenne des 30 séances précédentes.",
+  "time": "2026-11-05T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-SDSC-2026-11-05-b7922a8e9f",
+  "type": "prix",
+  "ticker": "SDSC",
+  "title": "SDSC : -7,44 % sur la séance",
+  "detail": "AFRICA GLOBAL LOGISTICS CI clôture à 2 800 FCFA le 2026-11-05  contre 3 025 FCFA la séance précédente (9 896 titres échangés).",
+  "time": "2026-11-05T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "volume-SMBC-2026-11-05-01c37c2d6a",
+  "type": "volume",
+  "ticker": "SMBC",
+  "title": "Volume inhabituel sur SMBC",
+  "detail": "3 306 titres SMB CI échangés le 2026-11-05  soit 3.3× la moyenne des 30 séances précédentes.",
+  "time": "2026-11-05T15:30:00+00:00",
+  "severity": "info",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-SNTS-2026-11-05-a380c1d1b8",
+  "type": "prix",
+  "ticker": "SNTS",
+  "title": "SNTS au plus bas 52 semaines",
+  "detail": "SONATEL SN clôture à 4 050 FCFA le 2026-11-05 — sous son plus bas des 52 dernières semaines (4 150 FCFA).",
+  "time": "2026-11-05T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-STAC-2026-11-05-b93668c28b",
+  "type": "prix",
+  "ticker": "STAC",
+  "title": "STAC : -7,5 % sur la séance",
+  "detail": "SETAO CI clôture à 1 850 FCFA le 2026-11-05  contre 2 000 FCFA la séance précédente (1 266 titres échangés).",
+  "time": "2026-11-05T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
   "id": "volume-CABC-2026-11-04-d1246a994b",
   "type": "volume",
   "ticker": "CABC",
@@ -625,72 +713,6 @@
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261030_-_rapport_dactivites_-_3e_trimestre_2026_-_sitab_ci.pdf"
  },
  {
-  "id": "prix-BNBC-2026-10-29-65ba8121ed",
-  "type": "prix",
-  "ticker": "BNBC",
-  "title": "BNBC : +7,3 % sur la séance",
-  "detail": "BERNABE CI clôture à 1 985 FCFA le 2026-10-29  contre 1 850 FCFA la séance précédente (2 832 titres échangés).",
-  "time": "2026-10-29T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-CIEC-2026-10-29-115ae96131",
-  "type": "prix",
-  "ticker": "CIEC",
-  "title": "CIEC : +5,88 % sur la séance",
-  "detail": "CIE CI clôture à 5 400 FCFA le 2026-10-29  contre 5 100 FCFA la séance précédente (2 216 titres échangés).",
-  "time": "2026-10-29T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "volume-SDSC-2026-10-29-4c49f38081",
-  "type": "volume",
-  "ticker": "SDSC",
-  "title": "Volume inhabituel sur SDSC",
-  "detail": "40 305 titres AFRICA GLOBAL LOGISTICS CI échangés le 2026-10-29  soit 3.1× la moyenne des 30 séances précédentes.",
-  "time": "2026-10-29T15:30:00+00:00",
-  "severity": "info",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "volume-SIVC-2026-10-29-030803ae86",
-  "type": "volume",
-  "ticker": "SIVC",
-  "title": "Volume inhabituel sur SIVC",
-  "detail": "15 263 titres ERIUM CI (Ex AIR LIQUIDE CI) échangés le 2026-10-29  soit 5.0× la moyenne des 30 séances précédentes.",
-  "time": "2026-10-29T15:30:00+00:00",
-  "severity": "info",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SNTS-2026-10-29-a380c1d1b8",
-  "type": "prix",
-  "ticker": "SNTS",
-  "title": "SNTS au plus bas 52 semaines",
-  "detail": "SONATEL SN clôture à 4 150 FCFA le 2026-10-29 — sous son plus bas des 52 dernières semaines (4 200 FCFA).",
-  "time": "2026-10-29T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-UNXC-2026-10-29-f0cb428634",
-  "type": "prix",
-  "ticker": "UNXC",
-  "title": "UNXC : +5 % sur la séance",
-  "detail": "UNIWAX CI clôture à 2 100 FCFA le 2026-10-29  contre 2 000 FCFA la séance précédente (20 498 titres échangés).",
-  "time": "2026-10-29T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
- },
- {
   "id": "document-CBIBF-2026-10-29-43eb979f17",
   "type": "document",
   "ticker": "CBIBF",
@@ -769,7 +791,7 @@
   "title": "BBGC : nouvelle publication financière",
   "detail": "BRIDGE BANK GROUP CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-28. Source officielle à consulter avant toute décision.",
   "time": "2026-10-28T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261028_-_rapport_dactivites_-_3e_trimestre_2026_-_bridge_bank_group_ci.pdf"
@@ -781,7 +803,7 @@
   "title": "ETIT : nouvelle publication financière",
   "detail": "ECOBANK TRANS. INCORP. TG a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-28. Source officielle à consulter avant toute décision.",
   "time": "2026-10-28T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261028_-_rapport_dactivites_-_3e_trimestre_2026_-_eti_tg.pdf"
@@ -793,7 +815,7 @@
   "title": "LNBB : nouvelle publication financière",
   "detail": "LOTERIE NATIONALE DU BENIN a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-28. Source officielle à consulter avant toute décision.",
   "time": "2026-10-28T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261028_-_rapport_dactivites_-_3e_trimestre_2026_-_lnb_bn.pdf"
@@ -805,7 +827,7 @@
   "title": "ORAC : nouvelle publication financière",
   "detail": "ORANGE COTE D'IVOIRE a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-28. Source officielle à consulter avant toute décision.",
   "time": "2026-10-28T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261028_-_rapport_dactivites_-_3e_trimestre_2026_-_orange_ci.pdf"
@@ -817,7 +839,7 @@
   "title": "UNXC : nouvelle publication financière",
   "detail": "UNIWAX CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-28. Source officielle à consulter avant toute décision.",
   "time": "2026-10-28T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261028_-_rapport_dactivites_-_3e_trimestre_2026_-_uniwax_ci.pdf"
@@ -1121,17 +1143,5 @@
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261007_-_rapport_dactivites_-_1er_semestre_2026_-_palm_ci.pdf"
- },
- {
-  "id": "document-SDSC-2026-10-05-95d11d16c1",
-  "type": "document",
-  "ticker": "SDSC",
-  "title": "SDSC : nouvelle publication financière",
-  "detail": "AFRICA GLOBAL LOGISTICS CI a publié « Attestation des commissaires aux comptes — etats financiers — exercice 2025 » le 2026-10-05. Source officielle à consulter avant toute décision.",
-  "time": "2026-10-05T09:05:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel",
-  "sourceUrl": "https://www.brvm.org/sites/default/files/20261005_-_attestation_des_commissaires_aux_comptes_-_etats_financiers_-_exercice_2025_-_africa_glogal_logistics_ci.pdf"
  }
 ]
