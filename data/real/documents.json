@@ -1,5 +1,12 @@
 [
  {
+  "ticker": "FTSC",
+  "title": "Rapport dactivites — 3e trimestre 2026",
+  "type": "Résultats",
+  "date": "2026-11-05",
+  "url": "https://www.brvm.org/sites/default/files/20261105_-_rapport_dactivites_-_3e_trimestre_2026_-_filtisac_ci_annule_et_remplace_le_precedent.pdf"
+ },
+ {
   "ticker": "BOAB",
   "title": "Rapport dactivites — 3e trimestre 2026",
   "type": "Résultats",
@@ -6004,13 +6011,6 @@
   "type": "Communiqué",
   "date": "2021-11-22",
   "url": "https://www.brvm.org/sites/default/files/20211122_-_rapport_dactivite_au_3eme_trimestre_2021_-_air_liquide.pdf"
- },
- {
-  "ticker": "FTSC",
-  "title": "Attestation des commissaires aux comptes — 1er semestre 2021",
-  "type": "États financiers",
-  "date": "2021-11-09",
-  "url": "https://www.brvm.org/sites/default/files/20211109_-_attestation_des_commissaires_aux_comptes_-_1er_semestre_2021_-_filtisac_ci.pdf"
  },
  {
   "ticker": "STAC",

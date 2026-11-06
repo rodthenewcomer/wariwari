@@ -88,6 +88,18 @@
   "basis": "réel"
  },
  {
+  "id": "document-FTSC-2026-11-05-b18890371b",
+  "type": "document",
+  "ticker": "FTSC",
+  "title": "FTSC : nouvelle publication financière",
+  "detail": "FILTISAC CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-11-05. Source officielle à consulter avant toute décision.",
+  "time": "2026-11-05T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261105_-_rapport_dactivites_-_3e_trimestre_2026_-_filtisac_ci_annule_et_remplace_le_precedent.pdf"
+ },
+ {
   "id": "volume-CABC-2026-11-04-d1246a994b",
   "type": "volume",
   "ticker": "CABC",
