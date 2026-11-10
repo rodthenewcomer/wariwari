@@ -1,5 +1,93 @@
 [
  {
+  "id": "prix-BNBC-2026-11-09-c927f36564",
+  "type": "prix",
+  "ticker": "BNBC",
+  "title": "BNBC : -5,28 % sur la séance",
+  "detail": "BERNABE CI clôture à 1 795 FCFA le 2026-11-09  contre 1 895 FCFA la séance précédente (799 titres échangés).",
+  "time": "2026-11-09T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-NEIC-2026-11-09-4af2027b28",
+  "type": "prix",
+  "ticker": "NEIC",
+  "title": "NEIC : +7,03 % sur la séance",
+  "detail": "NEI-CEDA CI clôture à 1 980 FCFA le 2026-11-09  contre 1 850 FCFA la séance précédente (979 titres échangés).",
+  "time": "2026-11-09T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-PALC-2026-11-09-9e0a956267",
+  "type": "prix",
+  "ticker": "PALC",
+  "title": "PALC : -5 % sur la séance",
+  "detail": "PALM CI clôture à 7 600 FCFA le 2026-11-09  contre 8 000 FCFA la séance précédente (13 342 titres échangés).",
+  "time": "2026-11-09T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-PRSC-2026-11-09-6c559e57a3",
+  "type": "prix",
+  "ticker": "PRSC",
+  "title": "PRSC au plus bas 52 semaines",
+  "detail": "TRACTAFRIC MOTORS CI clôture à 3 615 FCFA le 2026-11-09 — sous son plus bas des 52 dernières semaines (3 620 FCFA).",
+  "time": "2026-11-09T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-SCRC-2026-11-09-930e2f1979",
+  "type": "prix",
+  "ticker": "SCRC",
+  "title": "SCRC : -7,27 % sur la séance",
+  "detail": "SUCRIVOIRE clôture à 1 595 FCFA le 2026-11-09  contre 1 720 FCFA la séance précédente (58 127 titres échangés).",
+  "time": "2026-11-09T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "volume-SCRC-2026-11-09-9836cc8902",
+  "type": "volume",
+  "ticker": "SCRC",
+  "title": "Volume inhabituel sur SCRC",
+  "detail": "58 127 titres SUCRIVOIRE échangés le 2026-11-09  soit 6.2× la moyenne des 30 séances précédentes.",
+  "time": "2026-11-09T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-SDSC-2026-11-09-845eb3c3ae",
+  "type": "prix",
+  "ticker": "SDSC",
+  "title": "SDSC : -6,83 % sur la séance",
+  "detail": "AFRICA GLOBAL LOGISTICS CI clôture à 2 730 FCFA le 2026-11-09  contre 2 930 FCFA la séance précédente (2 663 titres échangés).",
+  "time": "2026-11-09T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-SIVC-2026-11-09-acc4c31152",
+  "type": "prix",
+  "ticker": "SIVC",
+  "title": "SIVC : +6,51 % sur la séance",
+  "detail": "ERIUM CI (Ex AIR LIQUIDE CI) clôture à 1 800 FCFA le 2026-11-09  contre 1 690 FCFA la séance précédente (969 titres échangés).",
+  "time": "2026-11-09T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
   "id": "prix-PALC-2026-11-06-06bbbd69b6",
   "type": "prix",
   "ticker": "PALC",
@@ -309,94 +397,6 @@
   "basis": "réel"
  },
  {
-  "id": "volume-ABJC-2026-11-02-d4d056ed80",
-  "type": "volume",
-  "ticker": "ABJC",
-  "title": "Volume inhabituel sur ABJC",
-  "detail": "10 147 titres SERVAIR ABIDJAN CI échangés le 2026-11-02  soit 4.8× la moyenne des 30 séances précédentes.",
-  "time": "2026-11-02T15:30:00+00:00",
-  "severity": "info",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "volume-BOAB-2026-11-02-1d50b246f5",
-  "type": "volume",
-  "ticker": "BOAB",
-  "title": "Volume inhabituel sur BOAB",
-  "detail": "24 889 titres BANK OF AFRICA BN échangés le 2026-11-02  soit 5.0× la moyenne des 30 séances précédentes.",
-  "time": "2026-11-02T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-CABC-2026-11-02-ef59489983",
-  "type": "prix",
-  "ticker": "CABC",
-  "title": "CABC : -7,36 % sur la séance",
-  "detail": "SICABLE CI clôture à 2 705 FCFA le 2026-11-02  contre 2 920 FCFA la séance précédente (2 589 titres échangés).",
-  "time": "2026-11-02T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-CFAC-2026-11-02-da2ec0e603",
-  "type": "prix",
-  "ticker": "CFAC",
-  "title": "CFAC : -7,14 % sur la séance",
-  "detail": "CFAO MOTORS CI clôture à 1 300 FCFA le 2026-11-02  contre 1 400 FCFA la séance précédente (6 787 titres échangés).",
-  "time": "2026-11-02T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-NEIC-2026-11-02-0b5b5d8021",
-  "type": "prix",
-  "ticker": "NEIC",
-  "title": "NEIC : -6,33 % sur la séance",
-  "detail": "NEI-CEDA CI clôture à 2 145 FCFA le 2026-11-02  contre 2 290 FCFA la séance précédente (3 464 titres échangés).",
-  "time": "2026-11-02T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SMBC-2026-11-02-373bfe2ea2",
-  "type": "prix",
-  "ticker": "SMBC",
-  "title": "SMBC : +7,5 % sur la séance",
-  "detail": "SMB CI clôture à 15 695 FCFA le 2026-11-02  contre 14 600 FCFA la séance précédente (2 336 titres échangés).",
-  "time": "2026-11-02T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SPHC-2026-11-02-85d2e24e41",
-  "type": "prix",
-  "ticker": "SPHC",
-  "title": "SPHC : -7,23 % sur la séance",
-  "detail": "SAPH CI clôture à 7 700 FCFA le 2026-11-02  contre 8 300 FCFA la séance précédente (7 473 titres échangés).",
-  "time": "2026-11-02T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-STBC-2026-11-02-c5b35a9271",
-  "type": "prix",
-  "ticker": "STBC",
-  "title": "STBC : -6,16 % sur la séance",
-  "detail": "SITAB CI clôture à 20 175 FCFA le 2026-11-02  contre 21 500 FCFA la séance précédente (3 323 titres échangés).",
-  "time": "2026-11-02T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
   "id": "document-BOAB-2026-11-02-590242ecee",
   "type": "document",
   "ticker": "BOAB",
@@ -487,7 +487,7 @@
   "title": "BICC : nouvelle publication financière",
   "detail": "BICI CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-30. Source officielle à consulter avant toute décision.",
   "time": "2026-10-30T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261030_-_rapport_dactivites_-_3e_trimestre_2026_-_bicici.pdf"
@@ -499,7 +499,7 @@
   "title": "CABC : nouvelle publication financière",
   "detail": "SICABLE CI a publié « Attestation des commissaires aux comptes sur le rapport dactivites — 1er semestre 2026 » le 2026-10-30. Source officielle à consulter avant toute décision.",
   "time": "2026-10-30T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261030_-_attestation_des_commissaires_aux_comptes_sur_le_rapport_dactivites_-_1er_semestre_2026_-_sicable_ci.pdf"
@@ -511,7 +511,7 @@
   "title": "CABC : nouvelle publication financière",
   "detail": "SICABLE CI a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-30. Source officielle à consulter avant toute décision.",
   "time": "2026-10-30T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261030_-_rapport_dactivites_-_1er_semestre_2026_-_sicable_ci.pdf"
@@ -523,7 +523,7 @@
   "title": "CABC : nouvelle publication financière",
   "detail": "SICABLE CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-30. Source officielle à consulter avant toute décision.",
   "time": "2026-10-30T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261030_-_rapport_dactivites_-_3e_trimestre_2026_-_sicable_ci.pdf"
@@ -535,7 +535,7 @@
   "title": "CFAC : nouvelle publication financière",
   "detail": "CFAO MOTORS CI a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-30. S1 2026 : CA 91,8 Md FCFA (+0,88 % vs S1 2025) ; résultat net 3,9 Md FCFA (-27,78 %). Extraction automatique recoupée, confiance élevée. Source officielle à consulter avant toute décision.",
   "time": "2026-10-30T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261030_-_rapport_dactivites_-_1er_semestre_2026_-_cfao_motors_ci.pdf"
@@ -547,7 +547,7 @@
   "title": "NEIC : nouvelle publication financière",
   "detail": "NEI-CEDA CI a publié « Attestation des commissaires aux comptes sur le rapport dactivites — 1er semestre 2026 » le 2026-10-30. S1 2026 : CA 1,2 Md FCFA (+353,67 % vs S1 2025) ; retour au bénéfice, résultat net 952 M FCFA. Extraction automatique recoupée, confiance moyenne. Source officielle à consulter avant toute décision.",
   "time": "2026-10-30T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261030_-_attestation_des_commissaires_aux_comptes_sur_le_rapport_dactivites_-_1er_semestre_2026_-_nei-ceda_ci.pdf"
@@ -559,7 +559,7 @@
   "title": "NEIC : nouvelle publication financière",
   "detail": "NEI-CEDA CI a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-30. Source officielle à consulter avant toute décision.",
   "time": "2026-10-30T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261030_-_rapport_dactivites_-_1er_semestre_2026_-_nei-ceda_ci.pdf"
@@ -571,7 +571,7 @@
   "title": "NEIC : nouvelle publication financière",
   "detail": "NEI-CEDA CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-30. Source officielle à consulter avant toute décision.",
   "time": "2026-10-30T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261030_-_rapport_dactivites_-_3e_trimestre_2026_-_nei-ceda_ci.pdf"
@@ -583,7 +583,7 @@
   "title": "NSBC : nouvelle publication financière",
   "detail": "NSIA BANQUE COTE D'IVOIRE a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-30. Source officielle à consulter avant toute décision.",
   "time": "2026-10-30T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261030_-_rapport_dactivites_-_3e_trimestre_2026_-_nsia_banque_ci.pdf"
@@ -595,7 +595,7 @@
   "title": "SDCC : nouvelle publication financière",
   "detail": "SODE CI a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-30. S1 2026 : CA 84,0 Md FCFA (+2,03 % vs S1 2025) ; résultat net 2,7 Md FCFA (+96,83 %). Extraction automatique recoupée, confiance élevée. Source officielle à consulter avant toute décision.",
   "time": "2026-10-30T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261030_-_rapport_dactivites_-_1er_semestre_2026_-_sode_ci.pdf"
@@ -607,7 +607,7 @@
   "title": "SDCC : nouvelle publication financière",
   "detail": "SODE CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-30. Source officielle à consulter avant toute décision.",
   "time": "2026-10-30T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261030_-_rapport_dactivites_-_3e_trimestre_2026_-_sode_ci.pdf"
@@ -619,7 +619,7 @@
   "title": "SGBC : nouvelle publication financière",
   "detail": "SOCIETE GENERALE COTE D'IVOIRE a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-30. Source officielle à consulter avant toute décision.",
   "time": "2026-10-30T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261030_-_rapport_dactivites_-_3e_trimestre_2026_-_societe_generale_ci.pdf"
@@ -631,7 +631,7 @@
   "title": "SLBC : nouvelle publication financière",
   "detail": "SOLIBRA CI a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-30. S1 2026 : CA 180,2 Md FCFA (+8,75 % vs S1 2025) ; résultat net 28,1 Md FCFA (+0,53 %). Extraction automatique recoupée, confiance élevée. Source officielle à consulter avant toute décision.",
   "time": "2026-10-30T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261030_-_rapport_dactivites_-_1er_semestre_2026_-_solibra_ci.pdf"
@@ -643,7 +643,7 @@
   "title": "SMBC : nouvelle publication financière",
   "detail": "SMB CI a publié « Attestation des commissaires aux comptes sur le rapport dactivites — 1er semestre 2026 » le 2026-10-30. Source officielle à consulter avant toute décision.",
   "time": "2026-10-30T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261030_-_attestation_des_commissaires_aux_comptes_sur_le_rapport_dactivites_-_1er_semestre_2026_-_smb_ci.pdf"
@@ -655,7 +655,7 @@
   "title": "SMBC : nouvelle publication financière",
   "detail": "SMB CI a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-30. Source officielle à consulter avant toute décision.",
   "time": "2026-10-30T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261030_-_rapport_dactivites_-_1er_semestre_2026_-_smb_ci.pdf"
@@ -667,7 +667,7 @@
   "title": "SMBC : nouvelle publication financière",
   "detail": "SMB CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-30. Source officielle à consulter avant toute décision.",
   "time": "2026-10-30T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261030_-_rapport_dactivites_-_3e_trimestre_2026_-_smb_ci.pdf"
@@ -679,7 +679,7 @@
   "title": "SOGC : nouvelle publication financière",
   "detail": "SOGB CI a publié « Attestation des commissaires aux comptes sur le rapport dactivites — 1er semestre 2026 » le 2026-10-30. Source officielle à consulter avant toute décision.",
   "time": "2026-10-30T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261030_-_attestation_des_commissaires_aux_comptes_sur_le_rapport_dactivites_-_1er_semestre_2026_-_sogb_ci.pdf"
@@ -691,7 +691,7 @@
   "title": "SOGC : nouvelle publication financière",
   "detail": "SOGB CI a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-30. Source officielle à consulter avant toute décision.",
   "time": "2026-10-30T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261030_-_rapport_dactivites_-_1er_semestre_2026_-_sogb_ci.pdf"
@@ -703,7 +703,7 @@
   "title": "SOGC : nouvelle publication financière",
   "detail": "SOGB CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-30. Source officielle à consulter avant toute décision.",
   "time": "2026-10-30T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261030_-_rapport_dactivites_-_3e_trimestre_2026_-_sogb_ci.pdf"
@@ -715,7 +715,7 @@
   "title": "STAC : nouvelle publication financière",
   "detail": "SETAO CI a publié « Attestation des commissaires aux comptes sur le rapport dactivites — 1er semestre 2026 » le 2026-10-30. Source officielle à consulter avant toute décision.",
   "time": "2026-10-30T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261030_-_attestation_des_commissaires_aux_comptes_sur_le_rapport_dactivites_-_1er_semestre_2026_-_setao_ci.pdf"
@@ -727,7 +727,7 @@
   "title": "STAC : nouvelle publication financière",
   "detail": "SETAO CI a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-30. Source officielle à consulter avant toute décision.",
   "time": "2026-10-30T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261030_-_rapport_dactivites_-_1er_semestre_2026_-_setao_ci.pdf"
@@ -739,7 +739,7 @@
   "title": "STAC : nouvelle publication financière",
   "detail": "SETAO CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-30. Source officielle à consulter avant toute décision.",
   "time": "2026-10-30T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261030_-_rapport_dactivites_-_3e_trimestre_2026_-_setao_ci.pdf"
@@ -751,7 +751,7 @@
   "title": "STBC : nouvelle publication financière",
   "detail": "SITAB CI a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-30. S1 2026 : CA 138,9 Md FCFA (+6,06 % vs S1 2025) ; résultat net 17,9 Md FCFA (-0,87 %). Extraction automatique recoupée, confiance élevée. Source officielle à consulter avant toute décision.",
   "time": "2026-10-30T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261030_-_rapport_dactivites_-_1er_semestre_2026_-_sitab_ci.pdf"
@@ -763,7 +763,7 @@
   "title": "STBC : nouvelle publication financière",
   "detail": "SITAB CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-30. Source officielle à consulter avant toute décision.",
   "time": "2026-10-30T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261030_-_rapport_dactivites_-_3e_trimestre_2026_-_sitab_ci.pdf"
@@ -1139,65 +1139,5 @@
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261013_-_rapport_dactivites_-_3e_trimestre_2026_-_saph_ci.pdf"
- },
- {
-  "id": "document-ORGT-2026-10-09-ca6defd995",
-  "type": "document",
-  "ticker": "ORGT",
-  "title": "ORGT : nouvelle publication financière",
-  "detail": "ORAGROUP TOGO a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-09. S1 2026 : PNB 98,6 Md FCFA (-1,14 % vs S1 2025) ; résultat net 18,5 Md FCFA (+1,45 %). Extraction automatique recoupée, confiance élevée. Source officielle à consulter avant toute décision.",
-  "time": "2026-10-09T09:05:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel",
-  "sourceUrl": "https://www.brvm.org/sites/default/files/20261009_-_rapport_dactivites_-_1er_semestre_2026_-_oragroup_tg.pdf"
- },
- {
-  "id": "document-ORAC-2026-10-08-0ea0ef2f1d",
-  "type": "document",
-  "ticker": "ORAC",
-  "title": "ORAC : nouvelle publication financière",
-  "detail": "ORANGE COTE D'IVOIRE a publié « Attestation des commissaires aux comptes sur le rapport dactivites — 1er semestre 2026 » le 2026-10-08. Source officielle à consulter avant toute décision.",
-  "time": "2026-10-08T09:05:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel",
-  "sourceUrl": "https://www.brvm.org/sites/default/files/20261008_-_attestation_des_commissaires_aux_comptes_sur_le_rapport_dactivites_-_1er_semestre_2026_-_orange_ci.pdf"
- },
- {
-  "id": "document-ORAC-2026-10-08-40fab68f1f",
-  "type": "document",
-  "ticker": "ORAC",
-  "title": "ORAC : nouvelle publication financière",
-  "detail": "ORANGE COTE D'IVOIRE a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-08. Source officielle à consulter avant toute décision.",
-  "time": "2026-10-08T09:05:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel",
-  "sourceUrl": "https://www.brvm.org/sites/default/files/20261008_-_rapport_dactivites_-_1er_semestre_2026_-_orange_ci.pdf"
- },
- {
-  "id": "document-PALC-2026-10-07-d54ee218dd",
-  "type": "document",
-  "ticker": "PALC",
-  "title": "PALC : nouvelle publication financière",
-  "detail": "PALM CI a publié « Attestation des commissaires aux comptes sur le rapport dactivites — 1er semestre 2026 » le 2026-10-07. Source officielle à consulter avant toute décision.",
-  "time": "2026-10-07T09:05:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel",
-  "sourceUrl": "https://www.brvm.org/sites/default/files/20261007_-_attestation_des_commissaires_aux_comptes_sur_le_rapport_dactivites_-_1er_semestre_2026_-_palm_ci.pdf"
- },
- {
-  "id": "document-PALC-2026-10-07-ab2807c0de",
-  "type": "document",
-  "ticker": "PALC",
-  "title": "PALC : nouvelle publication financière",
-  "detail": "PALM CI a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-07. Source officielle à consulter avant toute décision.",
-  "time": "2026-10-07T09:05:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel",
-  "sourceUrl": "https://www.brvm.org/sites/default/files/20261007_-_rapport_dactivites_-_1er_semestre_2026_-_palm_ci.pdf"
  }
 ]
