@@ -1,5 +1,49 @@
 [
  {
+  "id": "volume-BICB-2026-11-11-658d652235",
+  "type": "volume",
+  "ticker": "BICB",
+  "title": "Volume inhabituel sur BICB",
+  "detail": "15 537 titres BIIC BN échangés le 2026-11-11  soit 4.2× la moyenne des 30 séances précédentes.",
+  "time": "2026-11-11T15:30:00+00:00",
+  "severity": "info",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-CABC-2026-11-11-4cb1dfe250",
+  "type": "prix",
+  "ticker": "CABC",
+  "title": "CABC : +7,18 % sur la séance",
+  "detail": "SICABLE CI clôture à 2 910 FCFA le 2026-11-11  contre 2 715 FCFA la séance précédente (320 titres échangés).",
+  "time": "2026-11-11T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-PRSC-2026-11-11-523127b730",
+  "type": "prix",
+  "ticker": "PRSC",
+  "title": "PRSC : -6,97 % sur la séance",
+  "detail": "TRACTAFRIC MOTORS CI clôture à 3 535 FCFA le 2026-11-11  contre 3 800 FCFA la séance précédente (164 titres échangés).",
+  "time": "2026-11-11T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-PRSC-2026-11-11-6c559e57a3",
+  "type": "prix",
+  "ticker": "PRSC",
+  "title": "PRSC au plus bas 52 semaines",
+  "detail": "TRACTAFRIC MOTORS CI clôture à 3 535 FCFA le 2026-11-11 — sous son plus bas des 52 dernières semaines (3 615 FCFA).",
+  "time": "2026-11-11T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
   "id": "prix-ORGT-2026-11-10-fa5cc5b208",
   "type": "prix",
   "ticker": "ORGT",
@@ -72,17 +116,6 @@
   "ticker": "PALC",
   "title": "PALC : -5 % sur la séance",
   "detail": "PALM CI clôture à 7 600 FCFA le 2026-11-09  contre 8 000 FCFA la séance précédente (13 342 titres échangés).",
-  "time": "2026-11-09T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-PRSC-2026-11-09-6c559e57a3",
-  "type": "prix",
-  "ticker": "PRSC",
-  "title": "PRSC au plus bas 52 semaines",
-  "detail": "TRACTAFRIC MOTORS CI clôture à 3 615 FCFA le 2026-11-09 — sous son plus bas des 52 dernières semaines (3 620 FCFA).",
   "time": "2026-11-09T15:30:00+00:00",
   "severity": "warning",
   "active": true,
@@ -297,61 +330,6 @@
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261105_-_rapport_dactivites_-_3e_trimestre_2026_-_filtisac_ci_annule_et_remplace_le_precedent.pdf"
- },
- {
-  "id": "volume-CABC-2026-11-04-d1246a994b",
-  "type": "volume",
-  "ticker": "CABC",
-  "title": "Volume inhabituel sur CABC",
-  "detail": "3 576 titres SICABLE CI échangés le 2026-11-04  soit 3.4× la moyenne des 30 séances précédentes.",
-  "time": "2026-11-04T15:30:00+00:00",
-  "severity": "info",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-NEIC-2026-11-04-99174aba05",
-  "type": "prix",
-  "ticker": "NEIC",
-  "title": "NEIC : -7,48 % sur la séance",
-  "detail": "NEI-CEDA CI clôture à 1 980 FCFA le 2026-11-04  contre 2 140 FCFA la séance précédente (4 057 titres échangés).",
-  "time": "2026-11-04T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SCRC-2026-11-04-44643c354c",
-  "type": "prix",
-  "ticker": "SCRC",
-  "title": "SCRC : -7,37 % sur la séance",
-  "detail": "SUCRIVOIRE clôture à 1 885 FCFA le 2026-11-04  contre 2 035 FCFA la séance précédente (4 773 titres échangés).",
-  "time": "2026-11-04T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SMBC-2026-11-04-89207d1c45",
-  "type": "prix",
-  "ticker": "SMBC",
-  "title": "SMBC : +6,67 % sur la séance",
-  "detail": "SMB CI clôture à 17 995 FCFA le 2026-11-04  contre 16 870 FCFA la séance précédente (2 788 titres échangés).",
-  "time": "2026-11-04T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-STAC-2026-11-04-fbd3cfd70c",
-  "type": "prix",
-  "ticker": "STAC",
-  "title": "STAC : +5,26 % sur la séance",
-  "detail": "SETAO CI clôture à 2 000 FCFA le 2026-11-04  contre 1 900 FCFA la séance précédente (4 491 titres échangés).",
-  "time": "2026-11-04T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
  },
  {
   "id": "document-BOAB-2026-11-02-590242ecee",

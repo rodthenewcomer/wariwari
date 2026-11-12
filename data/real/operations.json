@@ -1,6 +1,11 @@
 {
   "avis": [
     {
+      "title": "TPCI 5,75 % 2019-2026 (TPCI.O38) : Radiation de la cote",
+      "date": "2026-11-12",
+      "pdf": "https://www.brvm.org/sites/default/files/20261110_-_avis_ndeg331_brvmdg_-_radiation_-_tpci_575_2019-2026_tpci.o38.pdf"
+    },
+    {
       "title": "TPCI 5,80 % 2019-2026 (TPCI.O37) : Radiation de la cote",
       "date": "2026-11-11",
       "pdf": "https://www.brvm.org/sites/default/files/20261110_-_avis_ndeg329_brvmdg_-_radiation_-_tpci_580_2019-2026_tpci.o37.pdf"
@@ -144,11 +149,6 @@
       "title": "Emprunts ETAT DU SENEGAL 6,40 % 2026-2029, ETAT DU SENEGAL 6,60 % 2026-2031, ETAT DU SENEGAL 6,75 % 2026-2033 et ETAT DU SENEGAL 6,95 % 2026-2036 : Report de la date de première cotation",
       "date": "2026-09-07",
       "pdf": "https://www.brvm.org/sites/default/files/20260709_-_avis_ndeg262_brvmdg_-_report_de_la_date_de_premiere_cotation_-_emprunts_etat_du_senegal.pdf"
-    },
-    {
-      "title": "Avis : Calendrier de paiement de dividendes",
-      "date": "2026-09-04",
-      "pdf": "https://www.brvm.org/sites/default/files/20260904_-_calendrier_de_paiement_des_dividendes_-_exercice_2025.pdf"
     }
   ],
   "operations": [
