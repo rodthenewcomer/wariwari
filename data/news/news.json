@@ -1,5 +1,15 @@
 [
  {
+  "title": "BRVM : Solibra mène le rebond dans une séance largement orientée à la hausse",
+  "link": "https://www.sikafinance.com/marches/brvm-solibra-mene-le-rebond-dans-une-seance-largement-orientee-a-la-hausse_65684",
+  "source": "Sika Finance",
+  "publishedAt": "2026-11-12T15:58:09+00:00",
+  "summary": "La BRVM poursuit son mouvement de reprise avec une séance largement positive. Ses trois principaux indices terminent dans le vert : le BRVM-Prestige...",
+  "tickers": [
+   "SLBC"
+  ]
+ },
+ {
   "title": "BRVM : SICABLE s'illustre dans une séance de reprise",
   "link": "https://www.sikafinance.com/marches/brvm-sicable-s-illustre-dans-une-seance-de-reprise_65655",
   "source": "Sika Finance",
@@ -1197,16 +1207,6 @@
   "summary": "Après deux séances consécutives de baisse, le marché actions de la BRVM renoue avec une dynamique haussière. Le BRVM-Composite progresse de 1,11 % po...",
   "tickers": [
    "SDCC"
-  ]
- },
- {
-  "title": "SIB et FICA : Un engagement durable en faveur de la santé cardiovasculaire",
-  "link": "https://www.sikafinance.com/marches/sib-et-fica-un-engagement-durable-en-faveur-de-la-sante-cardiovasculaire_64674",
-  "source": "Sika Finance",
-  "publishedAt": "2026-10-02T09:14:20+00:00",
-  "summary": "À l'occasion de la Journée mondiale du Cœur 2026, la Société Ivoirienne de Banque (SIB) a renouvelé, ce 1er octobre, son engagement aux...",
-  "tickers": [
-   "SIBC"
   ]
  }
 ]
