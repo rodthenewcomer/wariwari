@@ -22,6 +22,18 @@
   "basis": "réel"
  },
  {
+  "id": "document-ORGT-2026-11-12-1295426911",
+  "type": "document",
+  "ticker": "ORGT",
+  "title": "ORGT : nouvelle publication financière",
+  "detail": "ORAGROUP TOGO a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-11-12. Source officielle à consulter avant toute décision.",
+  "time": "2026-11-12T09:05:00+00:00",
+  "severity": "critical",
+  "active": true,
+  "basis": "réel",
+  "sourceUrl": "https://www.brvm.org/sites/default/files/20261112_-_rapport_dactivites_-_3e_trimestre_2026_-_oragroup_tg.pdf"
+ },
+ {
   "id": "volume-BICB-2026-11-11-658d652235",
   "type": "volume",
   "ticker": "BICB",

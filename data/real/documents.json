@@ -1,5 +1,12 @@
 [
  {
+  "ticker": "ORGT",
+  "title": "Rapport dactivites — 3e trimestre 2026",
+  "type": "Résultats",
+  "date": "2026-11-12",
+  "url": "https://www.brvm.org/sites/default/files/20261112_-_rapport_dactivites_-_3e_trimestre_2026_-_oragroup_tg.pdf"
+ },
+ {
   "ticker": "BICB",
   "title": "Rapport dactivites — 3e trimestre 2026",
   "type": "Résultats",
@@ -5934,13 +5941,6 @@
   "type": "Communiqué",
   "date": "2022-04-26",
   "url": "https://www.brvm.org/sites/default/files/20220426_-_rapport_dactivite_-_1er_trimestre_2022_-_bici_ci.pdf"
- },
- {
-  "ticker": "ORGT",
-  "title": "Etats financiers exercice 2021",
-  "type": "États financiers",
-  "date": "2022-04-26",
-  "url": "https://www.brvm.org/sites/default/files/20220426_-_etats_financiers_exercice_2021_-_oragroup_tg.pdf"
  },
  {
   "ticker": "SDCC",
