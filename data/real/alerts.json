@@ -1,5 +1,27 @@
 [
  {
+  "id": "prix-SHEC-2026-11-13-abc515fcf3",
+  "type": "prix",
+  "ticker": "SHEC",
+  "title": "SHEC : +6,9 % sur la séance",
+  "detail": "VIVO ENERGY CI clôture à 2 170 FCFA le 2026-11-13  contre 2 030 FCFA la séance précédente (500 titres échangés).",
+  "time": "2026-11-13T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-STAC-2026-11-13-0e8f8c4e6e",
+  "type": "prix",
+  "ticker": "STAC",
+  "title": "STAC : -6,27 % sur la séance",
+  "detail": "SETAO CI clôture à 1 945 FCFA le 2026-11-13  contre 2 075 FCFA la séance précédente (4 662 titres échangés).",
+  "time": "2026-11-13T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
   "id": "volume-BICB-2026-11-12-658d652235",
   "type": "volume",
   "ticker": "BICB",
@@ -200,90 +222,13 @@
   "basis": "réel"
  },
  {
-  "id": "prix-PALC-2026-11-06-06bbbd69b6",
-  "type": "prix",
-  "ticker": "PALC",
-  "title": "PALC : +7,31 % sur la séance",
-  "detail": "PALM CI clôture à 8 000 FCFA le 2026-11-06  contre 7 455 FCFA la séance précédente (17 058 titres échangés).",
-  "time": "2026-11-06T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "volume-PALC-2026-11-06-434a98f46e",
-  "type": "volume",
-  "ticker": "PALC",
-  "title": "Volume inhabituel sur PALC",
-  "detail": "17 058 titres PALM CI échangés le 2026-11-06  soit 3.9× la moyenne des 30 séances précédentes.",
-  "time": "2026-11-06T15:30:00+00:00",
-  "severity": "info",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SCRC-2026-11-06-ded5d95177",
-  "type": "prix",
-  "ticker": "SCRC",
-  "title": "SCRC : -7,03 % sur la séance",
-  "detail": "SUCRIVOIRE clôture à 1 720 FCFA le 2026-11-06  contre 1 850 FCFA la séance précédente (13 539 titres échangés).",
-  "time": "2026-11-06T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SNTS-2026-11-06-a380c1d1b8",
-  "type": "prix",
-  "ticker": "SNTS",
-  "title": "SNTS au plus bas 52 semaines",
-  "detail": "SONATEL SN clôture à 4 000 FCFA le 2026-11-06 — sous son plus bas des 52 dernières semaines (4 050 FCFA).",
-  "time": "2026-11-06T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "volume-SNTS-2026-11-06-d7beb0e4a2",
-  "type": "volume",
-  "ticker": "SNTS",
-  "title": "Volume inhabituel sur SNTS",
-  "detail": "574 160 titres SONATEL SN échangés le 2026-11-06  soit 3.2× la moyenne des 30 séances précédentes.",
-  "time": "2026-11-06T15:30:00+00:00",
-  "severity": "info",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-STAC-2026-11-06-6d8549685b",
-  "type": "prix",
-  "ticker": "STAC",
-  "title": "STAC : +5,41 % sur la séance",
-  "detail": "SETAO CI clôture à 1 950 FCFA le 2026-11-06  contre 1 850 FCFA la séance précédente (1 551 titres échangés).",
-  "time": "2026-11-06T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "volume-TTLS-2026-11-06-2e74520f51",
-  "type": "volume",
-  "ticker": "TTLS",
-  "title": "Volume inhabituel sur TTLS",
-  "detail": "28 895 titres TOTALENERGIES MARKETING SN échangés le 2026-11-06  soit 5.8× la moyenne des 30 séances précédentes.",
-  "time": "2026-11-06T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
   "id": "document-FTSC-2026-11-05-b18890371b",
   "type": "document",
   "ticker": "FTSC",
   "title": "FTSC : nouvelle publication financière",
   "detail": "FILTISAC CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-11-05. Source officielle à consulter avant toute décision.",
   "time": "2026-11-05T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261105_-_rapport_dactivites_-_3e_trimestre_2026_-_filtisac_ci_annule_et_remplace_le_precedent.pdf"
@@ -1007,29 +952,5 @@
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261016_-_rapport_dactivites_-_3e_trimestre_2026_-_servair_abidjan_ci.pdf"
- },
- {
-  "id": "document-BICC-2026-10-13-5c5533a676",
-  "type": "document",
-  "ticker": "BICC",
-  "title": "BICC : nouvelle publication financière",
-  "detail": "BICI CI a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-13. S1 2026 : PNB 37,1 Md FCFA (-53,31 % vs S1 2025) ; résultat net 16,3 Md FCFA (-18,52 %). Extraction automatique recoupée, confiance élevée. Source officielle à consulter avant toute décision.",
-  "time": "2026-10-13T09:05:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel",
-  "sourceUrl": "https://www.brvm.org/sites/default/files/20261013_-_rapport_dactivites_-_1er_semestre_2026_-_bici_ci.pdf"
- },
- {
-  "id": "document-SPHC-2026-10-13-38ae390fb0",
-  "type": "document",
-  "ticker": "SPHC",
-  "title": "SPHC : nouvelle publication financière",
-  "detail": "SAPH CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-13. Source officielle à consulter avant toute décision.",
-  "time": "2026-10-13T09:05:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel",
-  "sourceUrl": "https://www.brvm.org/sites/default/files/20261013_-_rapport_dactivites_-_3e_trimestre_2026_-_saph_ci.pdf"
  }
 ]
