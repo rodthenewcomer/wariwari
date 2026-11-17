@@ -1,5 +1,82 @@
 [
  {
+  "id": "volume-CIEC-2026-11-16-8c39a01733",
+  "type": "volume",
+  "ticker": "CIEC",
+  "title": "Volume inhabituel sur CIEC",
+  "detail": "16 297 titres CIE CI échangés le 2026-11-16  soit 3.0× la moyenne des 30 séances précédentes.",
+  "time": "2026-11-16T15:30:00+00:00",
+  "severity": "info",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "volume-LNBB-2026-11-16-24104927d6",
+  "type": "volume",
+  "ticker": "LNBB",
+  "title": "Volume inhabituel sur LNBB",
+  "detail": "11 776 titres LOTERIE NATIONALE DU BENIN échangés le 2026-11-16  soit 3.4× la moyenne des 30 séances précédentes.",
+  "time": "2026-11-16T15:30:00+00:00",
+  "severity": "info",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "volume-ORAC-2026-11-16-423474f1b3",
+  "type": "volume",
+  "ticker": "ORAC",
+  "title": "Volume inhabituel sur ORAC",
+  "detail": "8 298 titres ORANGE COTE D'IVOIRE échangés le 2026-11-16  soit 3.6× la moyenne des 30 séances précédentes.",
+  "time": "2026-11-16T15:30:00+00:00",
+  "severity": "info",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "volume-SCRC-2026-11-16-9836cc8902",
+  "type": "volume",
+  "ticker": "SCRC",
+  "title": "Volume inhabituel sur SCRC",
+  "detail": "35 172 titres SUCRIVOIRE échangés le 2026-11-16  soit 3.2× la moyenne des 30 séances précédentes.",
+  "time": "2026-11-16T15:30:00+00:00",
+  "severity": "info",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "volume-SIBC-2026-11-16-7c353d6018",
+  "type": "volume",
+  "ticker": "SIBC",
+  "title": "Volume inhabituel sur SIBC",
+  "detail": "34 829 titres SOCIETE IVOIRIENNE DE BANQUE échangés le 2026-11-16  soit 5.0× la moyenne des 30 séances précédentes.",
+  "time": "2026-11-16T15:30:00+00:00",
+  "severity": "info",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "volume-SOGC-2026-11-16-cdd94b44db",
+  "type": "volume",
+  "ticker": "SOGC",
+  "title": "Volume inhabituel sur SOGC",
+  "detail": "7 068 titres SOGB CI échangés le 2026-11-16  soit 4.4× la moyenne des 30 séances précédentes.",
+  "time": "2026-11-16T15:30:00+00:00",
+  "severity": "info",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-STAC-2026-11-16-33801509c7",
+  "type": "prix",
+  "ticker": "STAC",
+  "title": "STAC : +7,46 % sur la séance",
+  "detail": "SETAO CI clôture à 2 090 FCFA le 2026-11-16  contre 1 945 FCFA la séance précédente (3 816 titres échangés).",
+  "time": "2026-11-16T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
   "id": "prix-SHEC-2026-11-13-abc515fcf3",
   "type": "prix",
   "ticker": "SHEC",
@@ -143,83 +220,6 @@
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261110_-_rapport_dactivites_-_3e_trimestre_2026_-_biic_bn.pdf"
- },
- {
-  "id": "prix-BNBC-2026-11-09-c927f36564",
-  "type": "prix",
-  "ticker": "BNBC",
-  "title": "BNBC : -5,28 % sur la séance",
-  "detail": "BERNABE CI clôture à 1 795 FCFA le 2026-11-09  contre 1 895 FCFA la séance précédente (799 titres échangés).",
-  "time": "2026-11-09T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-NEIC-2026-11-09-4af2027b28",
-  "type": "prix",
-  "ticker": "NEIC",
-  "title": "NEIC : +7,03 % sur la séance",
-  "detail": "NEI-CEDA CI clôture à 1 980 FCFA le 2026-11-09  contre 1 850 FCFA la séance précédente (979 titres échangés).",
-  "time": "2026-11-09T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-PALC-2026-11-09-9e0a956267",
-  "type": "prix",
-  "ticker": "PALC",
-  "title": "PALC : -5 % sur la séance",
-  "detail": "PALM CI clôture à 7 600 FCFA le 2026-11-09  contre 8 000 FCFA la séance précédente (13 342 titres échangés).",
-  "time": "2026-11-09T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SCRC-2026-11-09-930e2f1979",
-  "type": "prix",
-  "ticker": "SCRC",
-  "title": "SCRC : -7,27 % sur la séance",
-  "detail": "SUCRIVOIRE clôture à 1 595 FCFA le 2026-11-09  contre 1 720 FCFA la séance précédente (58 127 titres échangés).",
-  "time": "2026-11-09T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "volume-SCRC-2026-11-09-9836cc8902",
-  "type": "volume",
-  "ticker": "SCRC",
-  "title": "Volume inhabituel sur SCRC",
-  "detail": "58 127 titres SUCRIVOIRE échangés le 2026-11-09  soit 6.2× la moyenne des 30 séances précédentes.",
-  "time": "2026-11-09T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SDSC-2026-11-09-845eb3c3ae",
-  "type": "prix",
-  "ticker": "SDSC",
-  "title": "SDSC : -6,83 % sur la séance",
-  "detail": "AFRICA GLOBAL LOGISTICS CI clôture à 2 730 FCFA le 2026-11-09  contre 2 930 FCFA la séance précédente (2 663 titres échangés).",
-  "time": "2026-11-09T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SIVC-2026-11-09-acc4c31152",
-  "type": "prix",
-  "ticker": "SIVC",
-  "title": "SIVC : +6,51 % sur la séance",
-  "detail": "ERIUM CI (Ex AIR LIQUIDE CI) clôture à 1 800 FCFA le 2026-11-09  contre 1 690 FCFA la séance précédente (969 titres échangés).",
-  "time": "2026-11-09T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
  },
  {
   "id": "document-FTSC-2026-11-05-b18890371b",
@@ -916,41 +916,5 @@
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261021_-_rapport_dactivites_-_3e_trimestre_2026_-_boa_sn.pdf"
- },
- {
-  "id": "document-ABJC-2026-10-16-5441293d24",
-  "type": "document",
-  "ticker": "ABJC",
-  "title": "ABJC : nouvelle publication financière",
-  "detail": "SERVAIR ABIDJAN CI a publié « Attestation des commissaires aux comptes sur le rapport dactivites — 1er semestre 2026 » le 2026-10-16. Source officielle à consulter avant toute décision.",
-  "time": "2026-10-16T09:05:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel",
-  "sourceUrl": "https://www.brvm.org/sites/default/files/20261016_-_attestation_des_commissaires_aux_comptes_sur_le_rapport_dactivites_-_1er_semestre_2026_-_servair_abidjan_ci.pdf"
- },
- {
-  "id": "document-ABJC-2026-10-16-f94f403248",
-  "type": "document",
-  "ticker": "ABJC",
-  "title": "ABJC : nouvelle publication financière",
-  "detail": "SERVAIR ABIDJAN CI a publié « Rapport dactivites — 1er semestre 2026 » le 2026-10-16. Source officielle à consulter avant toute décision.",
-  "time": "2026-10-16T09:05:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel",
-  "sourceUrl": "https://www.brvm.org/sites/default/files/20261016_-_rapport_dactivites_-_1er_semestre_2026_-_servair_abidjan_ci.pdf"
- },
- {
-  "id": "document-ABJC-2026-10-16-68d75201f2",
-  "type": "document",
-  "ticker": "ABJC",
-  "title": "ABJC : nouvelle publication financière",
-  "detail": "SERVAIR ABIDJAN CI a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-10-16. Source officielle à consulter avant toute décision.",
-  "time": "2026-10-16T09:05:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel",
-  "sourceUrl": "https://www.brvm.org/sites/default/files/20261016_-_rapport_dactivites_-_3e_trimestre_2026_-_servair_abidjan_ci.pdf"
  }
 ]
