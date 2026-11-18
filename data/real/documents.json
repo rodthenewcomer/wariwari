@@ -1,5 +1,12 @@
 [
  {
+  "ticker": "SHEC",
+  "title": "Rapport dactivites — 3e trimestre 2026",
+  "type": "Résultats",
+  "date": "2026-11-17",
+  "url": "https://www.brvm.org/sites/default/files/20261117_-_rapport_dactivites_-_3e_trimestre_2026_-_vivo_energy_ci.pdf"
+ },
+ {
   "ticker": "ORGT",
   "title": "Rapport dactivites — 3e trimestre 2026",
   "type": "Résultats",
@@ -5472,13 +5479,6 @@
   "type": "Communiqué",
   "date": "2022-12-14",
   "url": "https://www.brvm.org/sites/default/files/20221214_-_rapport_dactivite_-_3eme_trimestre_2022_-_sib_ci_0.pdf"
- },
- {
-  "ticker": "SHEC",
-  "title": "Rapport dactivite — 3eme trimestre 2022",
-  "type": "Communiqué",
-  "date": "2022-12-13",
-  "url": "https://www.brvm.org/sites/default/files/20221213_-_rapport_dactivite_-_3eme_trimestre_2022_-_vivo_energy_ci.pdf"
  },
  {
   "ticker": "ETIT",
