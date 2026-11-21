@@ -1,5 +1,71 @@
 [
  {
+  "id": "prix-BOAN-2026-11-20-a8c5a7de4a",
+  "type": "prix",
+  "ticker": "BOAN",
+  "title": "BOAN : +6,51 % sur la séance",
+  "detail": "BANK OF AFRICA NG clôture à 4 420 FCFA le 2026-11-20  contre 4 150 FCFA la séance précédente (3 065 titres échangés).",
+  "time": "2026-11-20T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-ECOC-2026-11-20-11310dc94c",
+  "type": "prix",
+  "ticker": "ECOC",
+  "title": "ECOC au plus bas 52 semaines",
+  "detail": "ECOBANK COTE D''IVOIRE clôture à 14 795 FCFA le 2026-11-20 — sous son plus bas des 52 dernières semaines (14 890 FCFA).",
+  "time": "2026-11-20T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-PRSC-2026-11-20-a04a48373f",
+  "type": "prix",
+  "ticker": "PRSC",
+  "title": "PRSC : +6,29 % sur la séance",
+  "detail": "TRACTAFRIC MOTORS CI clôture à 3 720 FCFA le 2026-11-20  contre 3 500 FCFA la séance précédente (1 517 titres échangés).",
+  "time": "2026-11-20T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-SAFC-2026-11-20-87ebb2b76d",
+  "type": "prix",
+  "ticker": "SAFC",
+  "title": "SAFC : -6,63 % sur la séance",
+  "detail": "SAFCA CI clôture à 3 030 FCFA le 2026-11-20  contre 3 245 FCFA la séance précédente (5 319 titres échangés).",
+  "time": "2026-11-20T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "volume-SNTS-2026-11-20-d7beb0e4a2",
+  "type": "volume",
+  "ticker": "SNTS",
+  "title": "Volume inhabituel sur SNTS",
+  "detail": "738 457 titres SONATEL SN échangés le 2026-11-20  soit 3.2× la moyenne des 30 séances précédentes.",
+  "time": "2026-11-20T15:30:00+00:00",
+  "severity": "info",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-UNLC-2026-11-20-a5c06554ac",
+  "type": "prix",
+  "ticker": "UNLC",
+  "title": "UNLC : +7,37 % sur la séance",
+  "detail": "UNILEVER CI clôture à 44 000 FCFA le 2026-11-20  contre 40 980 FCFA la séance précédente (2 titres échangés).",
+  "time": "2026-11-20T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
   "id": "prix-BOAM-2026-11-19-99ef887833",
   "type": "prix",
   "ticker": "BOAM",
@@ -60,17 +126,6 @@
   "ticker": "CIEC",
   "title": "CIEC : -5,62 % sur la séance",
   "detail": "CIE CI clôture à 4 200 FCFA le 2026-11-19  contre 4 450 FCFA la séance précédente (8 423 titres échangés).",
-  "time": "2026-11-19T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-ECOC-2026-11-19-11310dc94c",
-  "type": "prix",
-  "ticker": "ECOC",
-  "title": "ECOC au plus bas 52 semaines",
-  "detail": "ECOBANK COTE D''IVOIRE clôture à 14 890 FCFA le 2026-11-19 — sous son plus bas des 52 dernières semaines (14 990 FCFA).",
   "time": "2026-11-19T15:30:00+00:00",
   "severity": "warning",
   "active": true,
@@ -518,35 +573,13 @@
   "basis": "réel"
  },
  {
-  "id": "prix-SHEC-2026-11-13-abc515fcf3",
-  "type": "prix",
-  "ticker": "SHEC",
-  "title": "SHEC : +6,9 % sur la séance",
-  "detail": "VIVO ENERGY CI clôture à 2 170 FCFA le 2026-11-13  contre 2 030 FCFA la séance précédente (500 titres échangés).",
-  "time": "2026-11-13T15:30:00+00:00",
-  "severity": "positive",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-STAC-2026-11-13-0e8f8c4e6e",
-  "type": "prix",
-  "ticker": "STAC",
-  "title": "STAC : -6,27 % sur la séance",
-  "detail": "SETAO CI clôture à 1 945 FCFA le 2026-11-13  contre 2 075 FCFA la séance précédente (4 662 titres échangés).",
-  "time": "2026-11-13T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
   "id": "document-ORGT-2026-11-12-1295426911",
   "type": "document",
   "ticker": "ORGT",
   "title": "ORGT : nouvelle publication financière",
   "detail": "ORAGROUP TOGO a publié « Rapport dactivites — 3e trimestre 2026 » le 2026-11-12. Source officielle à consulter avant toute décision.",
   "time": "2026-11-12T09:05:00+00:00",
-  "severity": "critical",
+  "severity": "warning",
   "active": true,
   "basis": "réel",
   "sourceUrl": "https://www.brvm.org/sites/default/files/20261112_-_rapport_dactivites_-_3e_trimestre_2026_-_oragroup_tg.pdf"
