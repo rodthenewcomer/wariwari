@@ -1,5 +1,181 @@
 [
  {
+  "id": "prix-ABJC-2026-11-24-50274aa642",
+  "type": "prix",
+  "ticker": "ABJC",
+  "title": "ABJC : -7,33 % sur la séance",
+  "detail": "SERVAIR ABIDJAN CI clôture à 2 590 FCFA le 2026-11-24  contre 2 795 FCFA la séance précédente (1 595 titres échangés).",
+  "time": "2026-11-24T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-BBGC-2026-11-24-ce355c611d",
+  "type": "prix",
+  "ticker": "BBGC",
+  "title": "BBGC : -6,25 % sur la séance",
+  "detail": "BRIDGE BANK GROUP CI clôture à 7 500 FCFA le 2026-11-24  contre 8 000 FCFA la séance précédente (20 538 titres échangés).",
+  "time": "2026-11-24T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "volume-BICC-2026-11-24-f086d93dfe",
+  "type": "volume",
+  "ticker": "BICC",
+  "title": "Volume inhabituel sur BICC",
+  "detail": "1 870 titres BICI CI échangés le 2026-11-24  soit 3.9× la moyenne des 30 séances précédentes.",
+  "time": "2026-11-24T15:30:00+00:00",
+  "severity": "info",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-CABC-2026-11-24-6beafca08f",
+  "type": "prix",
+  "ticker": "CABC",
+  "title": "CABC : -7,37 % sur la séance",
+  "detail": "SICABLE CI clôture à 2 515 FCFA le 2026-11-24  contre 2 715 FCFA la séance précédente (1 247 titres échangés).",
+  "time": "2026-11-24T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "volume-ECOC-2026-11-24-701ef8ae49",
+  "type": "volume",
+  "ticker": "ECOC",
+  "title": "Volume inhabituel sur ECOC",
+  "detail": "6 662 titres ECOBANK COTE D''IVOIRE échangés le 2026-11-24  soit 3.6× la moyenne des 30 séances précédentes.",
+  "time": "2026-11-24T15:30:00+00:00",
+  "severity": "info",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-FTSC-2026-11-24-bb1d2dcb9c",
+  "type": "prix",
+  "ticker": "FTSC",
+  "title": "FTSC : -6,94 % sur la séance",
+  "detail": "FILTISAC CI clôture à 1 475 FCFA le 2026-11-24  contre 1 585 FCFA la séance précédente (895 titres échangés).",
+  "time": "2026-11-24T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-FTSC-2026-11-24-8a81d3e66a",
+  "type": "prix",
+  "ticker": "FTSC",
+  "title": "FTSC au plus bas 52 semaines",
+  "detail": "FILTISAC CI clôture à 1 475 FCFA le 2026-11-24 — sous son plus bas des 52 dernières semaines (1 585 FCFA).",
+  "time": "2026-11-24T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-ORGT-2026-11-24-f52f7ebd21",
+  "type": "prix",
+  "ticker": "ORGT",
+  "title": "ORGT au plus bas 52 semaines",
+  "detail": "ORAGROUP TOGO clôture à 2 390 FCFA le 2026-11-24 — sous son plus bas des 52 dernières semaines (2 400 FCFA).",
+  "time": "2026-11-24T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-PRSC-2026-11-24-3841b3148a",
+  "type": "prix",
+  "ticker": "PRSC",
+  "title": "PRSC : -6,76 % sur la séance",
+  "detail": "TRACTAFRIC MOTORS CI clôture à 3 450 FCFA le 2026-11-24  contre 3 700 FCFA la séance précédente (170 titres échangés).",
+  "time": "2026-11-24T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-PRSC-2026-11-24-6c559e57a3",
+  "type": "prix",
+  "ticker": "PRSC",
+  "title": "PRSC au plus bas 52 semaines",
+  "detail": "TRACTAFRIC MOTORS CI clôture à 3 450 FCFA le 2026-11-24 — sous son plus bas des 52 dernières semaines (3 500 FCFA).",
+  "time": "2026-11-24T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-SDSC-2026-11-24-80eddb21ce",
+  "type": "prix",
+  "ticker": "SDSC",
+  "title": "SDSC : +5,69 % sur la séance",
+  "detail": "AFRICA GLOBAL LOGISTICS CI clôture à 2 695 FCFA le 2026-11-24  contre 2 550 FCFA la séance précédente (15 599 titres échangés).",
+  "time": "2026-11-24T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-SIVC-2026-11-24-730c5ff8da",
+  "type": "prix",
+  "ticker": "SIVC",
+  "title": "SIVC : -7,5 % sur la séance",
+  "detail": "ERIUM CI (Ex AIR LIQUIDE CI) clôture à 1 480 FCFA le 2026-11-24  contre 1 600 FCFA la séance précédente (889 titres échangés).",
+  "time": "2026-11-24T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-SLBC-2026-11-24-952a650559",
+  "type": "prix",
+  "ticker": "SLBC",
+  "title": "SLBC : -6,41 % sur la séance",
+  "detail": "SOLIBRA CI clôture à 36 500 FCFA le 2026-11-24  contre 39 000 FCFA la séance précédente (597 titres échangés).",
+  "time": "2026-11-24T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-SNTS-2026-11-24-a380c1d1b8",
+  "type": "prix",
+  "ticker": "SNTS",
+  "title": "SNTS au plus bas 52 semaines",
+  "detail": "SONATEL SN clôture à 3 890 FCFA le 2026-11-24 — sous son plus bas des 52 dernières semaines (3 900 FCFA).",
+  "time": "2026-11-24T15:30:00+00:00",
+  "severity": "warning",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-STAC-2026-11-24-31ec9d06f2",
+  "type": "prix",
+  "ticker": "STAC",
+  "title": "STAC : +5,5 % sur la séance",
+  "detail": "SETAO CI clôture à 2 300 FCFA le 2026-11-24  contre 2 180 FCFA la séance précédente (10 403 titres échangés).",
+  "time": "2026-11-24T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
+  "id": "prix-TTLC-2026-11-24-a8a447edaa",
+  "type": "prix",
+  "ticker": "TTLC",
+  "title": "TTLC : +6,42 % sur la séance",
+  "detail": "TOTALENERGIES MARKETING CI clôture à 2 985 FCFA le 2026-11-24  contre 2 805 FCFA la séance précédente (7 186 titres échangés).",
+  "time": "2026-11-24T15:30:00+00:00",
+  "severity": "positive",
+  "active": true,
+  "basis": "réel"
+ },
+ {
   "id": "prix-ABJC-2026-11-23-f4203cae7d",
   "type": "prix",
   "ticker": "ABJC",
@@ -77,17 +253,6 @@
   "basis": "réel"
  },
  {
-  "id": "prix-FTSC-2026-11-23-8a81d3e66a",
-  "type": "prix",
-  "ticker": "FTSC",
-  "title": "FTSC au plus bas 52 semaines",
-  "detail": "FILTISAC CI clôture à 1 585 FCFA le 2026-11-23 — sous son plus bas des 52 dernières semaines (1 590 FCFA).",
-  "time": "2026-11-23T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
   "id": "prix-NEIC-2026-11-23-c9b101225c",
   "type": "prix",
   "ticker": "NEIC",
@@ -128,17 +293,6 @@
   "detail": "26 676 titres SOCIETE IVOIRIENNE DE BANQUE échangés le 2026-11-23  soit 3.2× la moyenne des 30 séances précédentes.",
   "time": "2026-11-23T15:30:00+00:00",
   "severity": "info",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SNTS-2026-11-23-a380c1d1b8",
-  "type": "prix",
-  "ticker": "SNTS",
-  "title": "SNTS au plus bas 52 semaines",
-  "detail": "SONATEL SN clôture à 3 900 FCFA le 2026-11-23 — sous son plus bas des 52 dernières semaines (4 000 FCFA).",
-  "time": "2026-11-23T15:30:00+00:00",
-  "severity": "warning",
   "active": true,
   "basis": "réel"
  },
@@ -385,17 +539,6 @@
   "basis": "réel"
  },
  {
-  "id": "prix-PRSC-2026-11-18-6c559e57a3",
-  "type": "prix",
-  "ticker": "PRSC",
-  "title": "PRSC au plus bas 52 semaines",
-  "detail": "TRACTAFRIC MOTORS CI clôture à 3 500 FCFA le 2026-11-18 — sous son plus bas des 52 dernières semaines (3 535 FCFA).",
-  "time": "2026-11-18T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
   "id": "prix-SDCC-2026-11-18-db5eaec751",
   "type": "prix",
   "ticker": "SDCC",
@@ -447,182 +590,6 @@
   "detail": "UNILEVER CI clôture à 40 980 FCFA le 2026-11-18  contre 44 300 FCFA la séance précédente (14 titres échangés).",
   "time": "2026-11-18T15:30:00+00:00",
   "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "volume-BBGC-2026-11-17-6520db571e",
-  "type": "volume",
-  "ticker": "BBGC",
-  "title": "Volume inhabituel sur BBGC",
-  "detail": "49 502 titres BRIDGE BANK GROUP CI échangés le 2026-11-17  soit 5.1× la moyenne des 30 séances précédentes.",
-  "time": "2026-11-17T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "volume-BICB-2026-11-17-658d652235",
-  "type": "volume",
-  "ticker": "BICB",
-  "title": "Volume inhabituel sur BICB",
-  "detail": "18 016 titres BIIC BN échangés le 2026-11-17  soit 4.1× la moyenne des 30 séances précédentes.",
-  "time": "2026-11-17T15:30:00+00:00",
-  "severity": "info",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-BOAN-2026-11-17-1df6e97935",
-  "type": "prix",
-  "ticker": "BOAN",
-  "title": "BOAN : -7,42 % sur la séance",
-  "detail": "BANK OF AFRICA NG clôture à 4 490 FCFA le 2026-11-17  contre 4 850 FCFA la séance précédente (12 625 titres échangés).",
-  "time": "2026-11-17T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-BOAS-2026-11-17-86cea86c0d",
-  "type": "prix",
-  "ticker": "BOAS",
-  "title": "BOAS : -6,59 % sur la séance",
-  "detail": "BANK OF AFRICA SENEGAL clôture à 7 800 FCFA le 2026-11-17  contre 8 350 FCFA la séance précédente (12 611 titres échangés).",
-  "time": "2026-11-17T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-CIEC-2026-11-17-b186826b9f",
-  "type": "prix",
-  "ticker": "CIEC",
-  "title": "CIEC : -6,12 % sur la séance",
-  "detail": "CIE CI clôture à 4 600 FCFA le 2026-11-17  contre 4 900 FCFA la séance précédente (8 173 titres échangés).",
-  "time": "2026-11-17T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "volume-NTLC-2026-11-17-427b6ec99a",
-  "type": "volume",
-  "ticker": "NTLC",
-  "title": "Volume inhabituel sur NTLC",
-  "detail": "3 640 titres NESTLE CI échangés le 2026-11-17  soit 4.0× la moyenne des 30 séances précédentes.",
-  "time": "2026-11-17T15:30:00+00:00",
-  "severity": "info",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "volume-ORAC-2026-11-17-423474f1b3",
-  "type": "volume",
-  "ticker": "ORAC",
-  "title": "Volume inhabituel sur ORAC",
-  "detail": "10 360 titres ORANGE COTE D'IVOIRE échangés le 2026-11-17  soit 4.2× la moyenne des 30 séances précédentes.",
-  "time": "2026-11-17T15:30:00+00:00",
-  "severity": "info",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "volume-PRSC-2026-11-17-9df725342a",
-  "type": "volume",
-  "ticker": "PRSC",
-  "title": "Volume inhabituel sur PRSC",
-  "detail": "1 848 titres TRACTAFRIC MOTORS CI échangés le 2026-11-17  soit 3.2× la moyenne des 30 séances précédentes.",
-  "time": "2026-11-17T15:30:00+00:00",
-  "severity": "info",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SCRC-2026-11-17-b8ded8a69e",
-  "type": "prix",
-  "ticker": "SCRC",
-  "title": "SCRC : -6,15 % sur la séance",
-  "detail": "SUCRIVOIRE clôture à 1 450 FCFA le 2026-11-17  contre 1 545 FCFA la séance précédente (8 788 titres échangés).",
-  "time": "2026-11-17T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SDCC-2026-11-17-2785d20ba0",
-  "type": "prix",
-  "ticker": "SDCC",
-  "title": "SDCC : -5,74 % sur la séance",
-  "detail": "SODE CI clôture à 11 500 FCFA le 2026-11-17  contre 12 200 FCFA la séance précédente (1 615 titres échangés).",
-  "time": "2026-11-17T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SDSC-2026-11-17-cadaedf771",
-  "type": "prix",
-  "ticker": "SDSC",
-  "title": "SDSC : -7,19 % sur la séance",
-  "detail": "AFRICA GLOBAL LOGISTICS CI clôture à 2 580 FCFA le 2026-11-17  contre 2 780 FCFA la séance précédente (17 736 titres échangés).",
-  "time": "2026-11-17T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "volume-SIBC-2026-11-17-7c353d6018",
-  "type": "volume",
-  "ticker": "SIBC",
-  "title": "Volume inhabituel sur SIBC",
-  "detail": "27 639 titres SOCIETE IVOIRIENNE DE BANQUE échangés le 2026-11-17  soit 3.5× la moyenne des 30 séances précédentes.",
-  "time": "2026-11-17T15:30:00+00:00",
-  "severity": "info",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SLBC-2026-11-17-723f539f62",
-  "type": "prix",
-  "ticker": "SLBC",
-  "title": "SLBC : -6,61 % sur la séance",
-  "detail": "SOLIBRA CI clôture à 39 495 FCFA le 2026-11-17  contre 42 290 FCFA la séance précédente (316 titres échangés).",
-  "time": "2026-11-17T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "prix-SMBC-2026-11-17-a9a56b7a80",
-  "type": "prix",
-  "ticker": "SMBC",
-  "title": "SMBC : -6,56 % sur la séance",
-  "detail": "SMB CI clôture à 16 450 FCFA le 2026-11-17  contre 17 605 FCFA la séance précédente (1 098 titres échangés).",
-  "time": "2026-11-17T15:30:00+00:00",
-  "severity": "warning",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "volume-SOGC-2026-11-17-cdd94b44db",
-  "type": "volume",
-  "ticker": "SOGC",
-  "title": "Volume inhabituel sur SOGC",
-  "detail": "7 221 titres SOGB CI échangés le 2026-11-17  soit 4.0× la moyenne des 30 séances précédentes.",
-  "time": "2026-11-17T15:30:00+00:00",
-  "severity": "info",
-  "active": true,
-  "basis": "réel"
- },
- {
-  "id": "volume-STAC-2026-11-17-bc83ef8d2b",
-  "type": "volume",
-  "ticker": "STAC",
-  "title": "Volume inhabituel sur STAC",
-  "detail": "14 170 titres SETAO CI échangés le 2026-11-17  soit 3.0× la moyenne des 30 séances précédentes.",
-  "time": "2026-11-17T15:30:00+00:00",
-  "severity": "info",
   "active": true,
   "basis": "réel"
  },
