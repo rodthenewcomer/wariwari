@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T12:34:57.489332+00:00",
+  "generatedAt": "2026-11-26T14:39:22.981422+00:00",
   "results": {
     "ABJC": {
       "ticker": "ABJC",
@@ -423,8 +423,8 @@
       "netIncomePrevM": 9456,
       "ordinaryIncomeM": 16928,
       "ordinaryIncomePrevM": 14801,
-      "source": "https://www.brvm.org/sites/default/files/20261022_-_rapport_dactivites_-_1er_semestre_2026_-_nestle_ci.pdf",
-      "publishedOn": "2026-10-22",
+      "source": "https://www.brvm.org/sites/default/files/20261125_-_attestation_des_commissaires_aux_comptes_sur_le_rapport_dactivites_-_1er_semestre_2026_-_nestle_ci.pdf",
+      "publishedOn": "2026-11-25",
       "status": "integrated",
       "confidence": "high",
       "sourceType": "publication officielle BRVM",
