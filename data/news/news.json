@@ -1,5 +1,15 @@
 [
  {
+  "title": "BRVM : NSIA Banque CI à contre-courant d'un marché sous pression",
+  "link": "https://www.sikafinance.com/marches/brvm-nsia-banque-ci-a-contre-courant-d-un-marche-sous-pression_65982",
+  "source": "Sika Finance",
+  "publishedAt": "2026-11-26T15:16:29+00:00",
+  "summary": "La BRVM poursuit sa spirale baissière ce jeudi 26 novembre, dans un marché où les vendeurs conservent largement l'avantage. La pression s'éten...",
+  "tickers": [
+   "NSBC"
+  ]
+ },
+ {
   "title": "Société Générale Côte d’Ivoire s’allie à la BERD pour mobiliser 250 millions d’euros en faveur des entreprises",
   "link": "https://www.sikafinance.com/marches/societe-generale-cote-divoire-sallie-a-la-berd-pour-mobiliser-250-millions-deuros-en-faveur-des-entreprises_65973",
   "source": "Sika Finance",
@@ -1196,16 +1206,6 @@
   "tickers": [
    "TTLC",
    "CBIBF"
-  ]
- },
- {
-  "title": "Servair Abidjan : Le bénéfice se stabilise à 1,33 milliard FCFA à fin septembre 2026",
-  "link": "https://www.sikafinance.com/premium/servair-abidjan-le-benefice-se-stabilise-a-1-33-milliard-fcfa-a-fin-septembre-2026_65029",
-  "source": "Sika Finance",
-  "publishedAt": "2026-10-19T07:15:06+00:00",
-  "summary": "Après un premier semestre marqué par des tensions sur ses coûts, Servair Abidjan affiche un relatif redressement. Sa publication à fin septembr...",
-  "tickers": [
-   "ABJC"
   ]
  }
 ]
